@@ -2,7 +2,7 @@
  * folder.c
  *****************************************************************************
  * Copyright (C) 2006 VLC authors and VideoLAN
- * $Id: aa25c8f945d11f71c503098efb9bf57b298ca748 $
+ * $Id$
  *
  * Authors: Antoine Cellerier <dionoea -at- videolan -dot- org>
  *

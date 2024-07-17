@@ -2,7 +2,7 @@
  * directsound.c: DirectSound audio output plugin for VLC
  *****************************************************************************
  * Copyright (C) 2001-2009 VLC authors and VideoLAN
- * $Id: 534c9952e2cb1b0284d58447d3bf637f2700eaf1 $
+ * $Id$
  *
  * Authors: Gildas Bazin <gbazin@videolan.org>
  *

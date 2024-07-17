@@ -2,7 +2,7 @@
  * vlc_codecs.h: codec related structures needed by the demuxers and decoders
  *****************************************************************************
  * Copyright (C) 1999-2001 VLC authors and VideoLAN
- * $Id: 611524b81a14fb4cf79d8bed93584399303904fd $
+ * $Id$
  *
  * Author: Gildas Bazin <gbazin@videolan.org>
  *

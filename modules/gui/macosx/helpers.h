@@ -2,7 +2,7 @@
  * helpers.h
  *****************************************************************************
  * Copyright (C) 2009-2015 VLC authors and VideoLAN
- * $Id: d58a761b5200c0d9f140f3ac2e5228352013a7af $
+ * $Id$
  *
  * Authors: Pierre d'Herbemont <pdherbemont # videolan org>
  *          Felix Paul Kühne <fkuehne at videolan dot org>

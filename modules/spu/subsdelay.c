@@ -2,7 +2,7 @@
  * subsdelay.c : Subsdelay plugin for vlc
  *****************************************************************************
  * Copyright © 2011 VideoLAN
- * $Id: 5f05cf0fc28164afebbfc9b294da4196f5410dea $
+ * $Id$
  *
  * Authors: Yuval Tze <yuvaltze@gmail.com>
  *

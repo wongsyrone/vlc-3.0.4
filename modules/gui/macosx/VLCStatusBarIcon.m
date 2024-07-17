@@ -2,7 +2,7 @@
  * VLCStatusBarIcon.m: Status bar icon controller/delegate
  *****************************************************************************
  * Copyright (C) 2016 VLC authors and VideoLAN
- * $Id: 936b1301b36fe5a25ffec7c978e3e4dcc57ac292 $
+ * $Id$
  *
  * Authors: Goran Dokic <vlc at 8hz dot com>
  *

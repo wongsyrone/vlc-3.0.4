@@ -2,7 +2,7 @@
  * VLCPlaylistInfo.h: Controller for the codec info panel
  *****************************************************************************
  * Copyright (C) 2002-2015 VLC authors and VideoLAN
- * $Id: 7b63fe378df96a560e7318c2d725ccfcdb523b01 $
+ * $Id$
  *
  * Authors: Benjamin Pracht <bigben at videolan dot org>
  *          Felix Paul Kühne <fkuehne at videolan dot org>

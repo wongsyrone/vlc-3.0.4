@@ -2,7 +2,7 @@
  * uleaddvaudio.c
  *****************************************************************************
  * Copyright (C) 2012 Laurent Aimar
- * $Id: b90f0125e4b48b3fa055a7a6b49a248479369cf1 $
+ * $Id$
  *
  * Authors: Laurent Aimar <fenrir _AT_ videolan _DOT_ org>
  *

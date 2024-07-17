@@ -2,7 +2,7 @@
  * PLItem.h: MacOS X interface module
  *****************************************************************************
  * Copyright (C) 2014 VLC authors and VideoLAN
- * $Id: 13688a7d04efb0f8d3e8c74097f20774f0b6be72 $
+ * $Id$
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

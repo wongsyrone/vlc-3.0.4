@@ -2,7 +2,7 @@
  * VLCPlaylist.h: MacOS X interface module
  *****************************************************************************
  * Copyright (C) 2002-2015 VLC authors and VideoLAN
- * $Id: 024af45d087e64a2e67374c80cd0e57d9f9d5dad $
+ * $Id$
  *
  * Authors: Benjamin Pracht <bigben at videolab dot org>
  *          Felix Paul Kühne <fkuehne at videolan dot org>

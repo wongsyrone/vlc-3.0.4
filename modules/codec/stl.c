@@ -2,7 +2,7 @@
  * stl.c: EBU STL decoder
  *****************************************************************************
  * Copyright (C) 2010 Laurent Aimar
- * $Id: 9c6ddc9663cb040bf563c4af784152fc4ffefd92 $
+ * $Id$
  *
  * Authors: Laurent Aimar <fenrir _AT_ videolan _DOT_ org>
  *

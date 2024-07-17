@@ -2,7 +2,7 @@
  * SSA/ASS subtitle decoder using libass.
  *****************************************************************************
  * Copyright (C) 2008-2009 VLC authors and VideoLAN
- * $Id: f743fbb616da1908bec901966861509fe7140f58 $
+ * $Id$
  *
  * Authors: Laurent Aimar <fenrir@videolan.org>
  *

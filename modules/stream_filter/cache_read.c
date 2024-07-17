@@ -2,7 +2,7 @@
  * cache_read.c
  *****************************************************************************
  * Copyright (C) 1999-2004 VLC authors and VideoLAN
- * $Id: ed967760764b7d5388fecf6f460b63e98eeb4285 $
+ * $Id$
  *
  * Authors: Laurent Aimar <fenrir@via.ecp.fr>
  *

@@ -2,7 +2,7 @@
  * tls.c
  *****************************************************************************
  * Copyright © 2004-2016 Rémi Denis-Courmont
- * $Id: 56e04d6ce75436775c9a91a3d3004a53a312037d $
+ * $Id$
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU Lesser General Public License as published by

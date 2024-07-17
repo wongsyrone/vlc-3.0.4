@@ -27,7 +27,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vlc 3.0.3\n"
 "Report-Msgid-Bugs-To: vlc-devel@videolan.org\n"
-"POT-Creation-Date: 2018-08-21 18:49+0200\n"
+"POT-Creation-Date: 2018-08-02 22:51+0200\n"
 "PO-Revision-Date: 2018-07-05 21:33+0200\n"
 "Last-Translator: VideoLAN <videolan@videolan.org>, 2018\n"
 "Language-Team: Arabic (https://www.transifex.com/yaron/teams/16553/ar/)\n"
@@ -5115,7 +5115,7 @@ msgid "Failed to open \"%s\" for writing"
 msgstr "فشل فتح ”%s“ للقراءة."
 
 #: src/misc/update.c:596 src/misc/update.c:726 modules/access/dvb/scan.c:826
-#: modules/demux/avi/avi.c:2734
+#: modules/demux/avi/avi.c:2725
 #: modules/gui/macosx/VLCAudioEffectsWindowController.m:513
 #: modules/gui/macosx/VLCAudioEffectsWindowController.m:571
 #: modules/gui/macosx/VLCAudioEffectsWindowController.m:825
@@ -14586,7 +14586,7 @@ msgstr ""
 msgid "AVI demuxer"
 msgstr "فاكك مزج إشارات AVI"
 
-#: modules/demux/avi/avi.c:841 modules/demux/mp4/mp4.c:1674
+#: modules/demux/avi/avi.c:832 modules/demux/mp4/mp4.c:1674
 msgid ""
 "Because this file index is broken or missing, seeking will not work "
 "correctly.\n"
@@ -14600,27 +14600,27 @@ msgstr ""
 "قد يأخذ هذا وقتا طويلا إن كان الملف كبيرا.\n"
 "ما الذي تريد فعله؟"
 
-#: modules/demux/avi/avi.c:849
+#: modules/demux/avi/avi.c:840
 msgid "Do not play"
 msgstr "لا تشغّل الملف"
 
-#: modules/demux/avi/avi.c:850
+#: modules/demux/avi/avi.c:841
 msgid "Build index then play"
 msgstr "ابنِ الفهرس ثم شغّل الملف"
 
-#: modules/demux/avi/avi.c:851
+#: modules/demux/avi/avi.c:842
 msgid "Play as is"
 msgstr "شغّل الملف كما هو"
 
-#: modules/demux/avi/avi.c:852 modules/demux/mp4/mp4.c:1685
+#: modules/demux/avi/avi.c:843 modules/demux/mp4/mp4.c:1685
 msgid "Broken or missing Index"
 msgstr "الفهرس تالف أو ناقص"
 
-#: modules/demux/avi/avi.c:2735
+#: modules/demux/avi/avi.c:2726
 msgid "Broken or missing AVI Index"
 msgstr "فهرس AVI تالف أو ناقص"
 
-#: modules/demux/avi/avi.c:2736
+#: modules/demux/avi/avi.c:2727
 msgid "Fixing AVI Index..."
 msgstr "يُصلح فهرس AVI..."
 
@@ -20941,62 +20941,62 @@ msgstr "اختر واجهة"
 msgid "Open skin..."
 msgstr ""
 
-#: modules/hw/d3d11/d3d11_filters.c:86 modules/hw/d3d9/d3d9_filters.c:68
+#: modules/hw/d3d11/d3d11_filters.c:87 modules/hw/d3d9/d3d9_filters.c:68
 #: modules/video_filter/adjust.c:61
 msgid "Brightness threshold"
 msgstr ".عتبة الوهج"
 
-#: modules/hw/d3d11/d3d11_filters.c:87 modules/hw/d3d9/d3d9_filters.c:69
+#: modules/hw/d3d11/d3d11_filters.c:88 modules/hw/d3d9/d3d9_filters.c:69
 #: modules/video_filter/adjust.c:62
 msgid ""
 "When this mode is enabled, pixels will be shown as black or white. The "
 "threshold value will be the brightness defined below."
 msgstr ""
 
-#: modules/hw/d3d11/d3d11_filters.c:90 modules/hw/d3d9/d3d9_filters.c:72
+#: modules/hw/d3d11/d3d11_filters.c:91 modules/hw/d3d9/d3d9_filters.c:72
 #: modules/video_filter/adjust.c:65
 msgid "Image contrast (0-2)"
 msgstr "(  تباين الصورة(0-2"
 
-#: modules/hw/d3d11/d3d11_filters.c:91 modules/hw/d3d9/d3d9_filters.c:73
+#: modules/hw/d3d11/d3d11_filters.c:92 modules/hw/d3d9/d3d9_filters.c:73
 #: modules/video_filter/adjust.c:66
 msgid "Set the image contrast, between 0 and 2. Defaults to 1."
 msgstr ".مجموعة صورة مقارنة بين 0 و 2. التقصير الى 1"
 
-#: modules/hw/d3d11/d3d11_filters.c:92 modules/hw/d3d9/d3d9_filters.c:74
+#: modules/hw/d3d11/d3d11_filters.c:93 modules/hw/d3d9/d3d9_filters.c:74
 msgid "Image hue (0-360)"
 msgstr "  (تدرج لون الصورة(0-360"
 
-#: modules/hw/d3d11/d3d11_filters.c:93 modules/hw/d3d9/d3d9_filters.c:75
+#: modules/hw/d3d11/d3d11_filters.c:94 modules/hw/d3d9/d3d9_filters.c:75
 msgid "Set the image hue, between 0 and 360. Defaults to 0."
 msgstr "مجموعة صورة الشكل ، بين 0 و 360. 0 الى التقصير. "
 
-#: modules/hw/d3d11/d3d11_filters.c:94 modules/hw/d3d9/d3d9_filters.c:76
+#: modules/hw/d3d11/d3d11_filters.c:95 modules/hw/d3d9/d3d9_filters.c:76
 #: modules/video_filter/adjust.c:69
 msgid "Image saturation (0-3)"
 msgstr "  (اشباع الصورة(0-3"
 
-#: modules/hw/d3d11/d3d11_filters.c:95 modules/hw/d3d9/d3d9_filters.c:77
+#: modules/hw/d3d11/d3d11_filters.c:96 modules/hw/d3d9/d3d9_filters.c:77
 #: modules/video_filter/adjust.c:70
 msgid "Set the image saturation, between 0 and 3. Defaults to 1."
 msgstr ".مجموعة صورة الاشباع ، بين 0 و 3. التقصير الى 1"
 
-#: modules/hw/d3d11/d3d11_filters.c:96 modules/hw/d3d9/d3d9_filters.c:78
+#: modules/hw/d3d11/d3d11_filters.c:97 modules/hw/d3d9/d3d9_filters.c:78
 #: modules/video_filter/adjust.c:71
 msgid "Image brightness (0-2)"
 msgstr "اضاءة الصورة(0-2)"
 
-#: modules/hw/d3d11/d3d11_filters.c:97 modules/hw/d3d9/d3d9_filters.c:79
+#: modules/hw/d3d11/d3d11_filters.c:98 modules/hw/d3d9/d3d9_filters.c:79
 #: modules/video_filter/adjust.c:72
 msgid "Set the image brightness, between 0 and 2. Defaults to 1."
 msgstr "مجموعة صورة السطوح بين 0 و 2. التقصير الى 1. "
 
-#: modules/hw/d3d11/d3d11_filters.c:98 modules/hw/d3d9/d3d9_filters.c:80
+#: modules/hw/d3d11/d3d11_filters.c:99 modules/hw/d3d9/d3d9_filters.c:80
 #: modules/video_filter/adjust.c:73
 msgid "Image gamma (0-10)"
 msgstr "  (جاما الصورة(0-10"
 
-#: modules/hw/d3d11/d3d11_filters.c:99 modules/hw/d3d9/d3d9_filters.c:81
+#: modules/hw/d3d11/d3d11_filters.c:100 modules/hw/d3d9/d3d9_filters.c:81
 #: modules/video_filter/adjust.c:74
 msgid "Set the image gamma, between 0.01 and 10. Defaults to 1."
 msgstr ".مجموعة صورة غاما ، وبين 0.01 و 10. التقصير الى 1"
@@ -23088,7 +23088,7 @@ msgid "Applications"
 msgstr "تطبيقات"
 
 #: modules/services_discovery/xcb_apps.c:361
-#: modules/video_output/win32/direct3d9.c:326
+#: modules/video_output/win32/direct3d9.c:318
 msgid "Desktop"
 msgstr "المكتب"
 
@@ -26699,7 +26699,7 @@ msgstr ""
 msgid "Wallpaper"
 msgstr "صورة خلفية"
 
-#: modules/video_output/win32/glwin32.c:52
+#: modules/video_output/win32/glwin32.c:51
 msgid "OpenGL video output for Windows"
 msgstr ""
 
@@ -27699,9 +27699,8 @@ msgid "Show &more options"
 msgstr "أظهر الم&زيد من الخيارات"
 
 #: modules/gui/qt/ui/open.h:268
-#, fuzzy
 msgid "Change the caching for the media"
-msgstr "غيّر وقت بدء الوسائط"
+msgstr ""
 
 #: modules/gui/qt/ui/open.h:270
 msgid " ms"
@@ -27716,9 +27715,8 @@ msgid "Start Time"
 msgstr "وقت البدء"
 
 #: modules/gui/qt/ui/open.h:273
-#, fuzzy
 msgid "Stop Time"
-msgstr "وقت التوقّف"
+msgstr ""
 
 #: modules/gui/qt/ui/open.h:274
 msgid "Edit Options"
@@ -27745,9 +27743,8 @@ msgid "HH'H':mm'm':ss's'.zzz"
 msgstr "HH'H':mm'm':ss's'.zzz"
 
 #: modules/gui/qt/ui/open.h:288
-#, fuzzy
 msgid "Change the stop time for the media"
-msgstr "غيّر وقت بدء الوسائط"
+msgstr ""
 
 #: modules/gui/qt/ui/open.h:291
 msgid "Play another media synchronously (extra audio file, ...)"
@@ -27846,9 +27843,8 @@ msgid "FLAC"
 msgstr ""
 
 #: modules/gui/qt/ui/profiles.h:703
-#, fuzzy
 msgid "MP&4/MOV"
-msgstr "موكسير MP4/MOV"
+msgstr ""
 
 #: modules/gui/qt/ui/profiles.h:704
 msgid "Ogg/Ogm"
@@ -27871,9 +27867,8 @@ msgid "F&LV"
 msgstr ""
 
 #: modules/gui/qt/ui/profiles.h:709
-#, fuzzy
 msgid "&MPEG-TS"
-msgstr "MPEG-PS"
+msgstr ""
 
 #: modules/gui/qt/ui/profiles.h:710
 msgid "RAW"
@@ -27888,9 +27883,8 @@ msgid "Webm"
 msgstr "Webm"
 
 #: modules/gui/qt/ui/profiles.h:713
-#, fuzzy
 msgid "MPEG &1"
-msgstr "MPEG-PS"
+msgstr ""
 
 #: modules/gui/qt/ui/profiles.h:714
 msgid "AVI"
@@ -27937,9 +27931,8 @@ msgid "Custom options"
 msgstr "خيارات مخصصة"
 
 #: modules/gui/qt/ui/profiles.h:735
-#, fuzzy
 msgid "&Quality"
-msgstr "جودة VBR"
+msgstr ""
 
 #: modules/gui/qt/ui/profiles.h:736 modules/gui/qt/ui/profiles.h:737
 msgid "Not Used"
@@ -27962,28 +27955,24 @@ msgid "px"
 msgstr "بكسِل"
 
 #: modules/gui/qt/ui/profiles.h:758
-#, fuzzy
 msgid "Sa&mple Rate"
-msgstr "  نسبة نموذجية"
+msgstr ""
 
 #: modules/gui/qt/ui/profiles.h:766
-#, fuzzy
 msgid "Profile &Name"
-msgstr "اسم اللاحة"
+msgstr ""
 
 #: modules/gui/qt/ui/sout.h:203
 msgid "Set up media sources to stream"
 msgstr ""
 
 #: modules/gui/qt/ui/sout.h:205
-#, fuzzy
 msgid "Destination Setup"
-msgstr "المقصد"
+msgstr ""
 
 #: modules/gui/qt/ui/sout.h:206
-#, fuzzy
 msgid "Select destinations to stream to"
-msgstr "اختر دليلا"
+msgstr ""
 
 #: modules/gui/qt/ui/sout.h:207
 msgid ""
@@ -28012,9 +28001,8 @@ msgid "Activate Transcoding"
 msgstr "فعّل تحويل الترميز"
 
 #: modules/gui/qt/ui/sout.h:215
-#, fuzzy
 msgid "Option Setup"
-msgstr "خيارات"
+msgstr ""
 
 #: modules/gui/qt/ui/sout.h:216
 msgid "Set up any additional options for streaming"
@@ -28025,23 +28013,20 @@ msgid "Miscellaneous Options"
 msgstr "خيارات متفرقة"
 
 #: modules/gui/qt/ui/sout.h:218
-#, fuzzy
 msgid "Stream all elementary streams"
-msgstr "الجدول الناتج الابتداءيه"
+msgstr ""
 
 #: modules/gui/qt/ui/sout.h:219
-#, fuzzy
 msgid "Generated stream output string"
-msgstr "الإعدادات العامة لخرج الدفق"
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_audio.h:412
 msgid " %"
 msgstr " %"
 
 #: modules/gui/qt/ui/sprefs_audio.h:415
-#, fuzzy
 msgid "Output module:"
-msgstr "وحدات الخرج"
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_audio.h:418
 msgid "Use S/PDIF when available"
@@ -28052,19 +28037,16 @@ msgid "Effects"
 msgstr "المُؤثّرات"
 
 #: modules/gui/qt/ui/sprefs_audio.h:421
-#, fuzzy
 msgid "Visualization:"
-msgstr "التصوير البصري"
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_audio.h:422
-#, fuzzy
 msgid "Enable Time-Stretching audio"
-msgstr "تمكين تمديد وقت الصوت"
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_audio.h:423
-#, fuzzy
 msgid "Replay gain mode:"
-msgstr "وضع إعادة تشغيل الكسب"
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_audio.h:424
 msgid "Normalize volume to:"
@@ -28107,14 +28089,12 @@ msgid "Video quality post-processing level"
 msgstr ""
 
 #: modules/gui/qt/ui/sprefs_input.h:361
-#, fuzzy
 msgid "Skip H.264 in-loop deblocking filter"
-msgstr "تخطى مرشح الحلقة"
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_input.h:362
-#, fuzzy
 msgid "x264 preset and tuning selection"
-msgstr "طور x264 واختار المستوى"
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_input.h:364
 msgid "Optical drive"
@@ -28129,28 +28109,24 @@ msgid "Damaged or incomplete AVI file"
 msgstr "ملف AVI غير كامل و تالِف"
 
 #: modules/gui/qt/ui/sprefs_input.h:372
-#, fuzzy
 msgid "HTTP proxy URL"
-msgstr "وكيل HTTP"
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_input.h:373
 msgid "HTTP (default)"
 msgstr ""
 
 #: modules/gui/qt/ui/sprefs_input.h:374
-#, fuzzy
 msgid "RTP over RTSP (TCP)"
-msgstr " (TCP) RTSP انتهى  RTP  استعمال       "
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_input.h:375
-#, fuzzy
 msgid "Live555 stream transport"
-msgstr "ملف ناتج التيار"
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_input.h:376
-#, fuzzy
 msgid "Default caching policy"
-msgstr "مستوى الاختزان المبدئي"
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_interface.h:531
 msgid "Menus language:"
@@ -28197,18 +28173,16 @@ msgid "Force window style:"
 msgstr "أجبِر نمط النوافذ:"
 
 #: modules/gui/qt/ui/sprefs_interface.h:544
-#, fuzzy
 msgid "Integrate video in interface"
-msgstr " المرشح مقلوب الڤديو"
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_interface.h:545
 msgid "Show systray icon"
 msgstr "اعرض أيقونة في صينية النظام"
 
 #: modules/gui/qt/ui/sprefs_interface.h:546
-#, fuzzy
 msgid "Auto raising the interface:"
-msgstr "Ncurses الوصله "
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_interface.h:547
 msgid "Skin resource file:"
@@ -28299,9 +28273,8 @@ msgid "Add a background"
 msgstr "أضِف خلفية"
 
 #: modules/gui/qt/ui/sprefs_video.h:316
-#, fuzzy
 msgid "O&utput"
-msgstr "الخرج"
+msgstr ""
 
 #: modules/gui/qt/ui/sprefs_video.h:320
 msgid "DirectX"
@@ -32922,6 +32895,10 @@ msgstr "قائمة مدير الوسائط"
 #~ msgstr "مقصد جديد"
 
 #, fuzzy
+#~ msgid "Select the directory to save to"
+#~ msgstr "اختر دليلا"
+
+#, fuzzy
 #~ msgid "No folder selected"
 #~ msgstr "عدّة ملفات محددة."
 
@@ -35462,6 +35439,10 @@ msgstr "قائمة مدير الوسائط"
 #, fuzzy
 #~ msgid "MPEG-4 video demuxer"
 #~ msgstr "MPEG-I/II ڤديو  demuxer‎ "
+
+#, fuzzy
+#~ msgid "MPEG-4 V"
+#~ msgstr "MPEG-PS"
 
 #, fuzzy
 #~ msgid "Use DVD Menus"

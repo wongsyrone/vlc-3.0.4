@@ -2,7 +2,7 @@
  * blendbench.c : blending benchmark plugin for vlc
  *****************************************************************************
  * Copyright (C) 2007 VLC authors and VideoLAN
- * $Id: d33fc3cb871631e3ac951eb8cd06c394bdf9faa6 $
+ * $Id$
  *
  * Author: Søren Bøg <avacore@videolan.org>
  *

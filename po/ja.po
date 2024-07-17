@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vlc 3.0.3\n"
 "Report-Msgid-Bugs-To: vlc-devel@videolan.org\n"
-"POT-Creation-Date: 2018-08-21 18:49+0200\n"
+"POT-Creation-Date: 2018-08-02 22:51+0200\n"
 "PO-Revision-Date: 2018-07-09 00:50+0200\n"
 "Last-Translator: VideoLAN <videolan@videolan.org>, 2018\n"
 "Language-Team: Japanese (https://www.transifex.com/yaron/teams/16553/ja/)\n"
@@ -5217,7 +5217,7 @@ msgid "Failed to open \"%s\" for writing"
 msgstr "書き込みのために\"%s\"を開けませんでした"
 
 #: src/misc/update.c:596 src/misc/update.c:726 modules/access/dvb/scan.c:826
-#: modules/demux/avi/avi.c:2734
+#: modules/demux/avi/avi.c:2725
 #: modules/gui/macosx/VLCAudioEffectsWindowController.m:513
 #: modules/gui/macosx/VLCAudioEffectsWindowController.m:571
 #: modules/gui/macosx/VLCAudioEffectsWindowController.m:825
@@ -15185,7 +15185,7 @@ msgstr "必要時に修正"
 msgid "AVI demuxer"
 msgstr "AVIデマルチプレクサー"
 
-#: modules/demux/avi/avi.c:841 modules/demux/mp4/mp4.c:1674
+#: modules/demux/avi/avi.c:832 modules/demux/mp4/mp4.c:1674
 msgid ""
 "Because this file index is broken or missing, seeking will not work "
 "correctly.\n"
@@ -15200,27 +15200,27 @@ msgstr ""
 "この手順は大きなファイルの場合、時間がかかります。\n"
 "どうしますか?"
 
-#: modules/demux/avi/avi.c:849
+#: modules/demux/avi/avi.c:840
 msgid "Do not play"
 msgstr "再生しない"
 
-#: modules/demux/avi/avi.c:850
+#: modules/demux/avi/avi.c:841
 msgid "Build index then play"
 msgstr "インデックスを構築し、再生"
 
-#: modules/demux/avi/avi.c:851
+#: modules/demux/avi/avi.c:842
 msgid "Play as is"
 msgstr "そのまま再生"
 
-#: modules/demux/avi/avi.c:852 modules/demux/mp4/mp4.c:1685
+#: modules/demux/avi/avi.c:843 modules/demux/mp4/mp4.c:1685
 msgid "Broken or missing Index"
 msgstr "インデックスが壊れているか無い"
 
-#: modules/demux/avi/avi.c:2735
+#: modules/demux/avi/avi.c:2726
 msgid "Broken or missing AVI Index"
 msgstr "AVIインデックスが壊れているかありません"
 
-#: modules/demux/avi/avi.c:2736
+#: modules/demux/avi/avi.c:2727
 msgid "Fixing AVI Index..."
 msgstr "AVIインデックスを修正しています..."
 
@@ -21741,12 +21741,12 @@ msgstr "スキン選択"
 msgid "Open skin..."
 msgstr "スキンを開く..."
 
-#: modules/hw/d3d11/d3d11_filters.c:86 modules/hw/d3d9/d3d9_filters.c:68
+#: modules/hw/d3d11/d3d11_filters.c:87 modules/hw/d3d9/d3d9_filters.c:68
 #: modules/video_filter/adjust.c:61
 msgid "Brightness threshold"
 msgstr "明るさの閾値"
 
-#: modules/hw/d3d11/d3d11_filters.c:87 modules/hw/d3d9/d3d9_filters.c:69
+#: modules/hw/d3d11/d3d11_filters.c:88 modules/hw/d3d9/d3d9_filters.c:69
 #: modules/video_filter/adjust.c:62
 msgid ""
 "When this mode is enabled, pixels will be shown as black or white. The "
@@ -21755,50 +21755,50 @@ msgstr ""
 "このモードが有効化された場合、ピクセルは黒色か白色で表示されます。閾値は上で"
 "設定される明るさです。"
 
-#: modules/hw/d3d11/d3d11_filters.c:90 modules/hw/d3d9/d3d9_filters.c:72
+#: modules/hw/d3d11/d3d11_filters.c:91 modules/hw/d3d9/d3d9_filters.c:72
 #: modules/video_filter/adjust.c:65
 msgid "Image contrast (0-2)"
 msgstr "画像コントラスト(0～2)"
 
-#: modules/hw/d3d11/d3d11_filters.c:91 modules/hw/d3d9/d3d9_filters.c:73
+#: modules/hw/d3d11/d3d11_filters.c:92 modules/hw/d3d9/d3d9_filters.c:73
 #: modules/video_filter/adjust.c:66
 msgid "Set the image contrast, between 0 and 2. Defaults to 1."
 msgstr "画像のコントラストを0～2の範囲で指定します。デフォルトは1です。"
 
-#: modules/hw/d3d11/d3d11_filters.c:92 modules/hw/d3d9/d3d9_filters.c:74
+#: modules/hw/d3d11/d3d11_filters.c:93 modules/hw/d3d9/d3d9_filters.c:74
 msgid "Image hue (0-360)"
 msgstr "画像の色相(0～360)"
 
-#: modules/hw/d3d11/d3d11_filters.c:93 modules/hw/d3d9/d3d9_filters.c:75
+#: modules/hw/d3d11/d3d11_filters.c:94 modules/hw/d3d9/d3d9_filters.c:75
 msgid "Set the image hue, between 0 and 360. Defaults to 0."
 msgstr "画像の色相を0～360の範囲で設定します。デフォルトは0です。"
 
-#: modules/hw/d3d11/d3d11_filters.c:94 modules/hw/d3d9/d3d9_filters.c:76
+#: modules/hw/d3d11/d3d11_filters.c:95 modules/hw/d3d9/d3d9_filters.c:76
 #: modules/video_filter/adjust.c:69
 msgid "Image saturation (0-3)"
 msgstr "画像の彩度(0～3)"
 
-#: modules/hw/d3d11/d3d11_filters.c:95 modules/hw/d3d9/d3d9_filters.c:77
+#: modules/hw/d3d11/d3d11_filters.c:96 modules/hw/d3d9/d3d9_filters.c:77
 #: modules/video_filter/adjust.c:70
 msgid "Set the image saturation, between 0 and 3. Defaults to 1."
 msgstr "画像の彩度を0～3の範囲で設定します。デフォルトは1です。"
 
-#: modules/hw/d3d11/d3d11_filters.c:96 modules/hw/d3d9/d3d9_filters.c:78
+#: modules/hw/d3d11/d3d11_filters.c:97 modules/hw/d3d9/d3d9_filters.c:78
 #: modules/video_filter/adjust.c:71
 msgid "Image brightness (0-2)"
 msgstr "画像の明るさ(0～2)"
 
-#: modules/hw/d3d11/d3d11_filters.c:97 modules/hw/d3d9/d3d9_filters.c:79
+#: modules/hw/d3d11/d3d11_filters.c:98 modules/hw/d3d9/d3d9_filters.c:79
 #: modules/video_filter/adjust.c:72
 msgid "Set the image brightness, between 0 and 2. Defaults to 1."
 msgstr "画像の明るさを0～2の範囲で設定します。デフォルトは1です。"
 
-#: modules/hw/d3d11/d3d11_filters.c:98 modules/hw/d3d9/d3d9_filters.c:80
+#: modules/hw/d3d11/d3d11_filters.c:99 modules/hw/d3d9/d3d9_filters.c:80
 #: modules/video_filter/adjust.c:73
 msgid "Image gamma (0-10)"
 msgstr "画像のガンマ(0～10)"
 
-#: modules/hw/d3d11/d3d11_filters.c:99 modules/hw/d3d9/d3d9_filters.c:81
+#: modules/hw/d3d11/d3d11_filters.c:100 modules/hw/d3d9/d3d9_filters.c:81
 #: modules/video_filter/adjust.c:74
 msgid "Set the image gamma, between 0.01 and 10. Defaults to 1."
 msgstr "画像のガンマを0.01～10の範囲で設定します。デフォルトは1です。"
@@ -23978,7 +23978,7 @@ msgid "Applications"
 msgstr "アプリケーション"
 
 #: modules/services_discovery/xcb_apps.c:361
-#: modules/video_output/win32/direct3d9.c:326
+#: modules/video_output/win32/direct3d9.c:318
 msgid "Desktop"
 msgstr "デスクトップ"
 
@@ -27781,7 +27781,7 @@ msgstr "DirectX(DirectDraw)ビデオ出力"
 msgid "Wallpaper"
 msgstr "壁紙"
 
-#: modules/video_output/win32/glwin32.c:52
+#: modules/video_output/win32/glwin32.c:51
 msgid "OpenGL video output for Windows"
 msgstr "Windows用OpenGLビデオ出力"
 

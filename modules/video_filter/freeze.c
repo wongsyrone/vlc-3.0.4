@@ -2,7 +2,7 @@
  * freeze.c : Freezing video filter
  *****************************************************************************
  * Copyright (C) 2013      Vianney Boyer
- * $Id: a8b2087e5adcb8023dffd00f19d0c215a4d036b5 $
+ * $Id$
  *
  * Authors: Vianney Boyer <vlcvboyer -at- gmail -dot- com>
  *

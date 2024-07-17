@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vlc 3.0.3\n"
 "Report-Msgid-Bugs-To: vlc-devel@videolan.org\n"
-"POT-Creation-Date: 2018-08-21 18:49+0200\n"
+"POT-Creation-Date: 2018-08-02 22:51+0200\n"
 "PO-Revision-Date: 2018-07-09 01:28+0200\n"
 "Last-Translator: VideoLAN <videolan@videolan.org>, 2018\n"
 "Language-Team: Slovak (https://www.transifex.com/yaron/teams/16553/sk/)\n"
@@ -5340,7 +5340,7 @@ msgid "Failed to open \"%s\" for writing"
 msgstr "Nepodarilo sa otvoriť \"%s\" na účely zápisu"
 
 #: src/misc/update.c:596 src/misc/update.c:726 modules/access/dvb/scan.c:826
-#: modules/demux/avi/avi.c:2734
+#: modules/demux/avi/avi.c:2725
 #: modules/gui/macosx/VLCAudioEffectsWindowController.m:513
 #: modules/gui/macosx/VLCAudioEffectsWindowController.m:571
 #: modules/gui/macosx/VLCAudioEffectsWindowController.m:825
@@ -15441,7 +15441,7 @@ msgstr "Opraviť, ak je to potrebné"
 msgid "AVI demuxer"
 msgstr "Demultiplexor AVI"
 
-#: modules/demux/avi/avi.c:841 modules/demux/mp4/mp4.c:1674
+#: modules/demux/avi/avi.c:832 modules/demux/mp4/mp4.c:1674
 msgid ""
 "Because this file index is broken or missing, seeking will not work "
 "correctly.\n"
@@ -15457,27 +15457,27 @@ msgstr ""
 "Tento krok môže trvať dlho, najmä pri veľkom súbore.\n"
 "Čo chcete urobiť?"
 
-#: modules/demux/avi/avi.c:849
+#: modules/demux/avi/avi.c:840
 msgid "Do not play"
 msgstr "Neprehrávať"
 
-#: modules/demux/avi/avi.c:850
+#: modules/demux/avi/avi.c:841
 msgid "Build index then play"
 msgstr "Vytvoriť index, potom prehrávať"
 
-#: modules/demux/avi/avi.c:851
+#: modules/demux/avi/avi.c:842
 msgid "Play as is"
 msgstr "Prehrať tak ako je"
 
-#: modules/demux/avi/avi.c:852 modules/demux/mp4/mp4.c:1685
+#: modules/demux/avi/avi.c:843 modules/demux/mp4/mp4.c:1685
 msgid "Broken or missing Index"
 msgstr "Prerušený alebo chýbajúci index"
 
-#: modules/demux/avi/avi.c:2735
+#: modules/demux/avi/avi.c:2726
 msgid "Broken or missing AVI Index"
 msgstr "Poškodený alebo chýbajúci index AVI"
 
-#: modules/demux/avi/avi.c:2736
+#: modules/demux/avi/avi.c:2727
 msgid "Fixing AVI Index..."
 msgstr "Opravuje sa index súboru AVI..."
 
@@ -22038,12 +22038,12 @@ msgstr "Vybrať vzhľad"
 msgid "Open skin..."
 msgstr "Otvoriť súbor so vzhľadom...."
 
-#: modules/hw/d3d11/d3d11_filters.c:86 modules/hw/d3d9/d3d9_filters.c:68
+#: modules/hw/d3d11/d3d11_filters.c:87 modules/hw/d3d9/d3d9_filters.c:68
 #: modules/video_filter/adjust.c:61
 msgid "Brightness threshold"
 msgstr "Dodržiavať hranicu jasu"
 
-#: modules/hw/d3d11/d3d11_filters.c:87 modules/hw/d3d9/d3d9_filters.c:69
+#: modules/hw/d3d11/d3d11_filters.c:88 modules/hw/d3d9/d3d9_filters.c:69
 #: modules/video_filter/adjust.c:62
 msgid ""
 "When this mode is enabled, pixels will be shown as black or white. The "
@@ -22052,56 +22052,56 @@ msgstr ""
 "Ak zapnete tento režim, pixely sa budú zobrazovať čiernou alebo bielou "
 "farbou. Hraničnou hodnotou bude jas definovaný dole."
 
-#: modules/hw/d3d11/d3d11_filters.c:90 modules/hw/d3d9/d3d9_filters.c:72
+#: modules/hw/d3d11/d3d11_filters.c:91 modules/hw/d3d9/d3d9_filters.c:72
 #: modules/video_filter/adjust.c:65
 msgid "Image contrast (0-2)"
 msgstr "Kontrast obrázka (0-2)"
 
-#: modules/hw/d3d11/d3d11_filters.c:91 modules/hw/d3d9/d3d9_filters.c:73
+#: modules/hw/d3d11/d3d11_filters.c:92 modules/hw/d3d9/d3d9_filters.c:73
 #: modules/video_filter/adjust.c:66
 msgid "Set the image contrast, between 0 and 2. Defaults to 1."
 msgstr "Nastavte kontrast obrázka, medzi 0 a 2. Predvolená hodnota je 1."
 
-#: modules/hw/d3d11/d3d11_filters.c:92 modules/hw/d3d9/d3d9_filters.c:74
+#: modules/hw/d3d11/d3d11_filters.c:93 modules/hw/d3d9/d3d9_filters.c:74
 msgid "Image hue (0-360)"
 msgstr "Farebný odtieň obrazu (0-360)"
 
-#: modules/hw/d3d11/d3d11_filters.c:93 modules/hw/d3d9/d3d9_filters.c:75
+#: modules/hw/d3d11/d3d11_filters.c:94 modules/hw/d3d9/d3d9_filters.c:75
 msgid "Set the image hue, between 0 and 360. Defaults to 0."
 msgstr ""
 "Tu môžete nastaviť farebný odtieň obrazu, v rozsahu od hodnoty 0 po 360. "
 "Predvolená hodnota je 0."
 
-#: modules/hw/d3d11/d3d11_filters.c:94 modules/hw/d3d9/d3d9_filters.c:76
+#: modules/hw/d3d11/d3d11_filters.c:95 modules/hw/d3d9/d3d9_filters.c:76
 #: modules/video_filter/adjust.c:69
 msgid "Image saturation (0-3)"
 msgstr "Sýtosť farieb v obrázku (0-3)"
 
-#: modules/hw/d3d11/d3d11_filters.c:95 modules/hw/d3d9/d3d9_filters.c:77
+#: modules/hw/d3d11/d3d11_filters.c:96 modules/hw/d3d9/d3d9_filters.c:77
 #: modules/video_filter/adjust.c:70
 msgid "Set the image saturation, between 0 and 3. Defaults to 1."
 msgstr ""
 "Tu si môžete nastaviť aké sýte budú farby v obrázku. Povolené hodnoty sú "
 "0-3, predvolená je 1."
 
-#: modules/hw/d3d11/d3d11_filters.c:96 modules/hw/d3d9/d3d9_filters.c:78
+#: modules/hw/d3d11/d3d11_filters.c:97 modules/hw/d3d9/d3d9_filters.c:78
 #: modules/video_filter/adjust.c:71
 msgid "Image brightness (0-2)"
 msgstr "Jas obrázka (0-2)"
 
-#: modules/hw/d3d11/d3d11_filters.c:97 modules/hw/d3d9/d3d9_filters.c:79
+#: modules/hw/d3d11/d3d11_filters.c:98 modules/hw/d3d9/d3d9_filters.c:79
 #: modules/video_filter/adjust.c:72
 msgid "Set the image brightness, between 0 and 2. Defaults to 1."
 msgstr ""
 "Tu si môžete nastaviť, aký jas bude mať obrázok. Povolené hodnoty sú 0-2, "
 "predvolená je 1."
 
-#: modules/hw/d3d11/d3d11_filters.c:98 modules/hw/d3d9/d3d9_filters.c:80
+#: modules/hw/d3d11/d3d11_filters.c:99 modules/hw/d3d9/d3d9_filters.c:80
 #: modules/video_filter/adjust.c:73
 msgid "Image gamma (0-10)"
 msgstr "Gamma v obrázku (0-10)"
 
-#: modules/hw/d3d11/d3d11_filters.c:99 modules/hw/d3d9/d3d9_filters.c:81
+#: modules/hw/d3d11/d3d11_filters.c:100 modules/hw/d3d9/d3d9_filters.c:81
 #: modules/video_filter/adjust.c:74
 msgid "Set the image gamma, between 0.01 and 10. Defaults to 1."
 msgstr ""
@@ -24299,7 +24299,7 @@ msgid "Applications"
 msgstr "Programy"
 
 #: modules/services_discovery/xcb_apps.c:361
-#: modules/video_output/win32/direct3d9.c:326
+#: modules/video_output/win32/direct3d9.c:318
 msgid "Desktop"
 msgstr "Pracovná plocha"
 
@@ -28179,7 +28179,7 @@ msgstr "Výstup videa DirectX (DirectDraw)"
 msgid "Wallpaper"
 msgstr "Pozadie"
 
-#: modules/video_output/win32/glwin32.c:52
+#: modules/video_output/win32/glwin32.c:51
 msgid "OpenGL video output for Windows"
 msgstr "Výstup videa OpenGL pre Windows"
 

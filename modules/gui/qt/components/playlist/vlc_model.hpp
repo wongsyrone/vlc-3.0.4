@@ -2,7 +2,7 @@
  * vlc_model.hpp : base for playlist and ml model
  ****************************************************************************
  * Copyright (C) 2010 the VideoLAN team and AUTHORS
- * $Id: d0d3a2821b1be820fd9915e802deb3943efdafab $
+ * $Id$
  *
  * Authors: Srikanth Raju <srikiraju#gmail#com>
  *

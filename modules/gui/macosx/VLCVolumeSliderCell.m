@@ -2,7 +2,7 @@
  * VLCVolumeSliderCell.m
  *****************************************************************************
  * Copyright (C) 2017 VLC authors and VideoLAN
- * $Id: 2bd98fd6b57fa5072072ccba5696ca66f4cb8882 $
+ * $Id$
  *
  * Authors: Marvin Scholz <epirat07 at gmail dot com>
  *

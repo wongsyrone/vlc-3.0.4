@@ -2,7 +2,7 @@
  * audiotoolbox_midi.c: Software MIDI synthesizer using AudioToolbox
  *****************************************************************************
  * Copyright (C) 2017 VLC authors and VideoLAN
- * $Id: 8adf545980e4ea16e5f04ebbf0da565ec1581fa5 $
+ * $Id$
  *
  * Authors: Marvin Scholz <epirat07 at gmail dot com>
  *

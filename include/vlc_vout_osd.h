@@ -3,7 +3,7 @@
  *****************************************************************************
  * Copyright (C) 1999-2010 VLC authors and VideoLAN
  * Copyright (C) 2004-2005 M2X
- * $Id: a07cd9073156d9ce0d5363543bcc3fd98a6de8f8 $
+ * $Id$
  *
  * Authors: Jean-Paul Saman <jpsaman #_at_# m2x dot nl>
  *          Gildas Bazin <gbazin@videolan.org>
