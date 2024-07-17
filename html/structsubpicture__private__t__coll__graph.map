@@ -1,0 +1,9 @@
+<map id="subpicture_private_t" name="subpicture_private_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="59,218,206,247"/>
+<area shape="rect" id="Node000002" href="$structvideo__format__t.html" title="video format description" alt="" coords="75,102,190,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,147,136,217,130,217,130,147"/>
+<area shape="rect" id="Node000003" href="$structvideo__palette__t.html" title=" " alt="" coords="5,5,122,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,46,125,100,120,103,81,49"/>
+<area shape="rect" id="Node000004" href="$structvlc__viewpoint__t.html" title="Viewpoints." alt="" coords="146,5,259,35"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="192,50,174,80,151,103,147,100,169,76,187,47"/>
+</map>

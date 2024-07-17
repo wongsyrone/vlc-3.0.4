@@ -1,0 +1,73 @@
+<map id="video_splitter_t" name="video_splitter_t">
+<area shape="rect" id="Node000001" title="Structure describing a video splitter." alt="" coords="1341,259,1458,288"/>
+<area shape="rect" id="Node000023" href="$structvout__display__sys__t.html" title=" " alt="" coords="1558,476,1692,506"/>
+<area shape="poly" id="edge39_Node000023_Node000001" title=" " alt="" coords="1429,298,1610,474,1606,478,1425,301"/>
+<area shape="rect" id="Node000002" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="5,330,169,359"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,313,115,234,134,186,158,138,188,93,225,56,268,31,292,24,318,22,1149,22,1173,24,1197,30,1241,51,1280,82,1314,119,1342,159,1365,198,1394,257,1390,260,1361,200,1338,162,1309,123,1276,86,1238,56,1195,35,1173,29,1148,27,319,27,293,29,270,36,228,60,192,97,163,141,139,188,120,236,97,315"/>
+<area shape="rect" id="Node000003" href="$structlibvlc__int__t.html" title=" " alt="" coords="278,368,362,398"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="128,364,159,379,193,390,236,394,277,390,278,395,236,399,192,395,157,384,125,369"/>
+<area shape="rect" id="Node000004" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="274,231,366,260"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="117,318,152,294,192,273,233,259,272,250,274,255,234,264,194,277,155,298,120,322"/>
+<area shape="rect" id="Node000015" href="$structvout__display__t.html" title=" " alt="" coords="1799,478,1907,507"/>
+<area shape="poly" id="edge23_Node000015_Node000002" title=" " alt="" coords="118,367,155,396,204,425,260,448,289,455,319,458,902,458,991,462,1041,462,1556,462,1666,457,1714,458,1775,466,1810,474,1809,480,1775,471,1714,463,1666,463,1556,467,1041,467,991,467,902,463,318,463,288,460,258,453,201,430,152,400,115,371"/>
+<area shape="rect" id="Node000025" href="$structvout__window__t.html" title="Graphical window." alt="" coords="263,658,376,687"/>
+<area shape="poly" id="edge44_Node000025_Node000002" title=" " alt="" coords="109,371,195,496,309,655,305,659,190,500,105,374"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="262,376,168,360,169,355,263,371"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="284,271,238,296,144,331,142,326,236,292,282,266"/>
+<area shape="rect" id="Node000007" href="$structmodule__config__t.html" title=" " alt="" coords="508,188,631,218"/>
+<area shape="poly" id="edge12_Node000007_Node000004" title=" " alt="" coords="381,233,507,211,508,216,382,238"/>
+<area shape="rect" id="Node000005" href="$structmodule__t.html" title="Internal module descriptor." alt="" coords="1108,104,1187,134"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="1203,132,1231,145,1276,172,1319,203,1383,256,1380,260,1316,207,1273,177,1228,149,1201,137"/>
+<area shape="poly" id="edge13_Node000005_Node000005" title=" " alt="" coords="1123,87,1131,80,1147,78,1162,80,1171,86,1174,95,1171,105,1166,103,1169,95,1167,89,1160,85,1147,83,1133,85,1126,91"/>
+<area shape="rect" id="Node000006" href="$structvlc__plugin__t.html" title="VLC plugin." alt="" coords="854,154,946,183"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="1094,136,1067,149,1056,162,1051,169,1042,175,1018,182,993,185,947,182,947,177,993,180,1017,177,1040,170,1047,165,1051,159,1063,145,1091,131"/>
+<area shape="poly" id="edge24_Node000015_Node000005" title=" " alt="" coords="1202,116,1319,124,1393,134,1473,150,1554,173,1634,205,1710,247,1745,272,1777,300,1795,320,1810,344,1833,394,1846,441,1853,477,1847,478,1841,442,1828,396,1806,346,1791,324,1773,304,1741,276,1707,251,1632,210,1552,178,1471,155,1392,139,1319,129,1202,122"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="961,152,990,146,1106,123,1107,129,992,151,963,157"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="878,136,886,130,900,127,914,129,922,135,925,145,922,154,917,152,919,145,918,138,912,134,900,132,888,134,882,140"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="647,192,853,170,854,176,647,198"/>
+<area shape="rect" id="Node000008" href="$unionmodule__value__t.html" title=" " alt="" coords="261,295,379,324"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="394,322,440,322,462,318,483,310,500,295,521,270,557,217,561,220,525,273,504,299,485,315,463,323,440,327,394,328"/>
+<area shape="rect" id="Node000009" href="$structconfig__chain__t.html" title=" " alt="" coords="1093,202,1201,231"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="1217,229,1318,252,1341,258,1340,263,1317,258,1216,234"/>
+<area shape="poly" id="edge15_Node000009_Node000009" title=" " alt="" coords="1123,184,1131,177,1147,175,1162,177,1171,183,1174,193,1171,202,1166,200,1169,192,1167,187,1160,182,1147,180,1133,182,1126,188"/>
+<area shape="rect" id="Node000010" href="$structvideo__format__t.html" title="video format description" alt="" coords="843,334,958,363"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="954,325,990,315,1086,298,1182,285,1341,273,1341,278,1182,291,1087,303,992,320,955,331"/>
+<area shape="rect" id="Node000013" href="$structvideo__splitter__output__t.html" title="Structure describing a video splitter output properties." alt="" coords="1065,322,1229,351"/>
+<area shape="poly" id="edge20_Node000013_Node000010" title=" " alt="" coords="973,342,1064,338,1065,343,973,347"/>
+<area shape="poly" id="edge28_Node000015_Node000010" title=" " alt="" coords="974,358,1117,376,1201,383,1284,386,1626,386,1704,385,1737,392,1776,409,1798,423,1817,441,1845,476,1840,479,1813,445,1795,427,1774,413,1735,397,1703,391,1626,391,1284,391,1200,388,1117,381,973,363"/>
+<area shape="rect" id="Node000020" href="$structpicture__t.html" title="Video picture." alt="" coords="1110,530,1185,559"/>
+<area shape="poly" id="edge32_Node000020_Node000010" title=" " alt="" coords="937,370,992,408,1018,422,1043,438,1095,485,1135,527,1131,531,1091,489,1039,442,1015,427,990,412,934,375"/>
+<area shape="rect" id="Node000011" href="$structvideo__palette__t.html" title=" " alt="" coords="512,303,628,332"/>
+<area shape="poly" id="edge17_Node000010_Node000011" title=" " alt="" coords="643,322,843,340,842,346,643,327"/>
+<area shape="rect" id="Node000012" href="$structvlc__viewpoint__t.html" title="Viewpoints." alt="" coords="513,375,626,404"/>
+<area shape="poly" id="edge18_Node000010_Node000012" title=" " alt="" coords="641,381,809,362,842,357,843,362,810,367,642,386"/>
+<area shape="rect" id="Node000016" href="$structvout__display__cfg__t.html" title="Initial/Current configuration for a vout_display_t." alt="" coords="834,648,967,678"/>
+<area shape="poly" id="edge27_Node000016_Node000012" title=" " alt="" coords="595,414,636,460,693,518,761,579,835,634,856,645,854,650,832,639,758,584,690,522,633,464,591,418"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="1244,324,1317,309,1369,287,1372,291,1318,314,1245,330"/>
+<area shape="rect" id="Node000014" href="$structvideo__splitter__owner__t.html" title=" " alt="" coords="2010,368,2173,398"/>
+<area shape="poly" id="edge21_Node000001_Node000014" title=" " alt="" coords="1995,371,1457,285,1458,280,1996,365"/>
+<area shape="poly" id="edge22_Node000014_Node000015" title=" " alt="" coords="1900,468,2056,396,2058,401,1902,473"/>
+<area shape="poly" id="edge41_Node000023_Node000015" title=" " alt="" coords="1797,515,1775,519,1747,522,1718,519,1671,509,1672,504,1718,514,1747,517,1775,514,1796,509"/>
+<area shape="poly" id="edge25_Node000015_Node000016" title=" " alt="" coords="982,660,1146,660,1626,660,1671,660,1705,655,1737,642,1773,618,1799,592,1820,561,1845,506,1849,509,1824,564,1803,596,1777,622,1740,647,1707,660,1671,665,1626,666,1146,666,982,666"/>
+<area shape="rect" id="Node000017" href="$structvlc__rational__t.html" title=" " alt="" coords="520,648,620,678"/>
+<area shape="poly" id="edge26_Node000016_Node000017" title=" " alt="" coords="635,660,833,660,833,666,635,666"/>
+<area shape="rect" id="Node000018" href="$structvout__display__info__t.html" title="Information from a vout_display_t to configure the core behaviour." alt="" coords="1556,596,1694,626"/>
+<area shape="poly" id="edge29_Node000015_Node000018" title=" " alt="" coords="1709,614,1743,609,1774,597,1798,578,1818,553,1844,506,1848,509,1823,556,1802,582,1776,602,1744,614,1710,620"/>
+<area shape="rect" id="Node000019" href="$structpicture__pool__t.html" title=" " alt="" coords="1345,510,1454,539"/>
+<area shape="poly" id="edge30_Node000015_Node000019" title=" " alt="" coords="1469,533,1535,540,1612,543,1694,538,1774,523,1821,505,1822,510,1776,528,1695,543,1612,548,1534,545,1469,538"/>
+<area shape="poly" id="edge38_Node000023_Node000019" title=" " alt="" coords="1469,511,1557,498,1558,503,1470,517"/>
+<area shape="poly" id="edge31_Node000019_Node000020" title=" " alt="" coords="1200,538,1345,526,1345,531,1200,543"/>
+<area shape="poly" id="edge36_Node000020_Node000020" title=" " alt="" coords="1123,512,1131,505,1147,503,1162,505,1171,511,1174,521,1171,530,1166,528,1169,520,1167,515,1160,510,1147,508,1133,510,1126,516"/>
+<area shape="poly" id="edge40_Node000023_Node000020" title=" " alt="" coords="1201,556,1255,568,1319,576,1389,577,1457,567,1486,557,1506,544,1527,529,1555,514,1578,504,1580,509,1557,519,1529,534,1509,549,1488,562,1458,573,1389,583,1319,581,1254,573,1200,561"/>
+<area shape="rect" id="Node000021" href="$structplane__t.html" title="Description of a planar graphic field." alt="" coords="867,498,934,527"/>
+<area shape="poly" id="edge33_Node000020_Node000021" title=" " alt="" coords="949,516,1109,537,1109,542,949,521"/>
+<area shape="rect" id="Node000022" href="$structpicture__context__t.html" title=" " alt="" coords="837,595,964,624"/>
+<area shape="poly" id="edge34_Node000020_Node000022" title=" " alt="" coords="973,588,1108,552,1110,557,975,593"/>
+<area shape="poly" id="edge35_Node000022_Node000022" title=" " alt="" coords="878,578,886,571,900,568,914,570,922,577,925,586,922,595,917,594,919,586,918,580,912,575,900,573,888,576,882,582"/>
+<area shape="poly" id="edge37_Node000015_Node000023" title=" " alt="" coords="1707,489,1798,489,1798,495,1707,494"/>
+<area shape="rect" id="Node000024" href="$structvout__display__owner__t.html" title="Vout owner structures." alt="" coords="655,707,810,736"/>
+<area shape="poly" id="edge42_Node000015_Node000024" title=" " alt="" coords="825,720,1015,722,1626,722,1672,718,1707,708,1739,687,1773,656,1802,619,1823,577,1846,507,1851,508,1828,579,1806,622,1777,659,1742,692,1710,713,1673,724,1626,727,1015,727,825,726"/>
+<area shape="poly" id="edge43_Node000024_Node000025" title=" " alt="" coords="392,678,655,710,655,715,392,683"/>
+<area shape="rect" id="Node000026" href="$structvout__window__owner.html" title=" " alt="" coords="13,658,161,687"/>
+<area shape="poly" id="edge45_Node000025_Node000026" title=" " alt="" coords="177,670,263,670,263,675,177,675"/>
+</map>

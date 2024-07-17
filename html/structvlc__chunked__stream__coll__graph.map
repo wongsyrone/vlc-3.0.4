@@ -1,0 +1,16 @@
+<map id="vlc_chunked_stream" name="vlc_chunked_stream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="206,125,351,155"/>
+<area shape="rect" id="Node000002" href="$structvlc__http__stream.html" title="HTTP stream." alt="" coords="100,5,218,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,44,231,95,263,123,260,127,227,99,179,48"/>
+<area shape="rect" id="Node000004" href="$structvlc__http__msg.html" title=" " alt="" coords="5,125,107,155"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="110,45,91,61,71,94,61,126,56,124,66,91,87,57,107,41"/>
+<area shape="rect" id="Node000003" href="$structvlc__http__stream__cbs.html" title="HTTP stream callbacks." alt="" coords="86,226,231,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="156,211,156,35,161,35,161,211"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="50,170,49,186,54,201,69,215,88,225,85,230,66,219,50,203,44,187,44,170"/>
+<area shape="rect" id="Node000005" href="$structblock__t.html" title=" " alt="" coords="376,125,440,155"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="362,163,196,228,194,223,360,158"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="457,129,464,133,467,140,458,150,441,152,440,147,456,145,462,140,460,137,454,134"/>
+<area shape="rect" id="Node000006" href="$structvlc__tls.html" title="Transport layer socket." alt="" coords="250,5,307,35"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="281,50,281,125,276,125,276,50"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="324,9,331,13,334,21,326,31,308,34,308,28,323,27,329,20,327,16,322,13"/>
+</map>

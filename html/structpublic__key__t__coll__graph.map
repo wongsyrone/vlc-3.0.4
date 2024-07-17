@@ -1,0 +1,7 @@
+<map id="public_key_t" name="public_key_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="110,102,206,132"/>
+<area shape="rect" id="Node000002" href="$structpublic__key__packet__t.html" title=" " alt="" coords="5,5,148,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,45,148,100,144,103,96,48"/>
+<area shape="rect" id="Node000003" href="$structsignature__packet__t.html" title=" " alt="" coords="172,5,309,35"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,48,172,103,168,100,216,45"/>
+</map>

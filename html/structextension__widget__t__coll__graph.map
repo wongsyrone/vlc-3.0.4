@@ -1,0 +1,17 @@
+<map id="extension_widget_t" name="extension_widget_t">
+<area shape="rect" id="Node000001" title="Widget descriptor for extensions." alt="" coords="253,121,393,151"/>
+<area shape="rect" id="Node000003" href="$structextension__dialog__t.html" title="Dialog descriptor for extensions." alt="" coords="213,218,348,247"/>
+<area shape="poly" id="edge9_Node000003_Node000001" title=" " alt="" coords="289,163,279,176,276,197,279,217,273,218,270,197,275,174,284,160"/>
+<area shape="rect" id="Node000002" href="$structextension__widget__t_1_1extension__widget__value__t.html" title=" " alt="" coords="229,5,417,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="326,69,326,120,320,120,320,69"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="434,21,443,30,435,38,418,42,417,37,433,34,438,30,430,25"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="323,206,334,192,337,183,336,172,329,152,334,150,341,171,342,183,339,195,327,210"/>
+<area shape="rect" id="Node000004" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="96,121,188,151"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="170,159,213,191,254,215,251,220,211,196,167,163"/>
+<area shape="rect" id="Node000005" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="5,218,169,247"/>
+<area shape="poly" id="edge8_Node000005_Node000004" title=" " alt="" coords="84,158,65,176,62,186,64,196,76,216,71,218,59,197,57,185,61,173,80,154"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="103,203,110,192,133,150,137,152,115,195,108,206"/>
+<area shape="rect" id="Node000006" href="$structlibvlc__int__t.html" title=" " alt="" coords="45,314,129,344"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="67,261,62,272,62,290,76,312,71,315,57,291,57,271,62,259"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="84,299,84,248,90,248,90,299"/>
+</map>

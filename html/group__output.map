@@ -1,0 +1,7 @@
+<map id="Output" name="Output">
+<area shape="rect" id="Node000002" href="$group__audio__output.html" title=" " alt="" coords="123,5,225,35"/>
+<area shape="rect" id="Node000003" href="$group__filter.html" title="Audio, video, text filters" alt="" coords="144,59,204,88"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,71,115"/>
+<area shape="rect" id="Node000004" href="$group__sout.html" title=" " alt="" coords="119,112,229,142"/>
+<area shape="rect" id="Node000005" href="$group__video__output.html" title="Video rendering, output and window management" alt="" coords="123,165,224,195"/>
+</map>

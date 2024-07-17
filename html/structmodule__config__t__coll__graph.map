@@ -1,0 +1,13 @@
+<map id="module_config_t" name="module_config_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,159,146,189"/>
+<area shape="rect" id="Node000002" href="$unionmodule__value__t.html" title=" " alt="" coords="5,5,124,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,51,63,91,69,134,78,157,73,159,64,136,58,91,59,51"/>
+<area shape="rect" id="Node000003" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="153,5,245,35"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,45,141,61,116,106,93,160,88,157,111,103,137,57,155,41"/>
+<area shape="rect" id="Node000004" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="182,159,345,189"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="193,51,187,92,190,114,197,134,208,146,223,156,220,161,205,150,193,136,185,115,182,92,187,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="261,144,257,102,251,81,242,60,220,37,224,34,247,58,256,79,262,101,267,143"/>
+<area shape="rect" id="Node000005" href="$structlibvlc__int__t.html" title=" " alt="" coords="221,256,305,285"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="243,203,238,213,238,231,252,254,247,256,233,232,233,212,238,201"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="260,240,260,189,266,189,266,240"/>
+</map>

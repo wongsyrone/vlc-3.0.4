@@ -1,0 +1,6 @@
+<map id="HTTP" name="HTTP">
+<area shape="rect" id="Node000001" title="Hyper&#45;Text Transfer Protocol" alt="" coords="5,59,60,88"/>
+<area shape="rect" id="Node000002" href="$group__http__connmgr.html" title="HTTP connection management" alt="" coords="108,5,258,35"/>
+<area shape="rect" id="Node000003" href="$group__http__msg.html" title="HTTP messages, header formatting and parsing" alt="" coords="142,59,224,88"/>
+<area shape="rect" id="Node000004" href="$group__http__res.html" title="Remote HTTP resources identified by a URL" alt="" coords="141,112,225,142"/>
+</map>

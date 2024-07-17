@@ -1,0 +1,4 @@
+<map id="LibVLC media list player" name="LibVLC media list player">
+<area shape="rect" id="Node000002" href="$group__libvlc.html" title="LibVLC is the external programming interface of the VLC media player." alt="" coords="5,5,68,35"/>
+<area shape="rect" id="Node000001" title="The LibVLC media list player plays a libvlc_media_list_t list of media, in a certain order." alt="" coords="116,5,281,35"/>
+</map>

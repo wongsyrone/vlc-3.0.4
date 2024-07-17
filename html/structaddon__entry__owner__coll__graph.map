@@ -1,0 +1,7 @@
+<map id="addon_entry_owner" name="addon_entry_owner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,199,152,228"/>
+<area shape="rect" id="Node000002" href="$structaddon__entry__t.html" title=" " alt="" coords="23,102,134,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,147,81,198,76,198,76,147"/>
+<area shape="rect" id="Node000003" href="$structaddon__file__t.html" title=" " alt="" coords="30,5,127,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,51,81,102,76,102,76,51"/>
+</map>

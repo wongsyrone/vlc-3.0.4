@@ -1,0 +1,9 @@
+<map id="libvlc_int_t" name="libvlc_int_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="45,5,129,35"/>
+<area shape="rect" id="Node000002" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="5,102,169,132"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="61,48,54,60,52,68,54,77,71,100,66,103,49,79,46,68,49,58,56,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,87,87,78,87,59,86,36,91,35,92,59,92,78,92,87"/>
+<area shape="rect" id="Node000003" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="41,199,133,228"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="67,146,62,156,62,174,76,197,71,199,57,175,57,155,62,144"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="84,183,84,132,90,132,90,183"/>
+</map>

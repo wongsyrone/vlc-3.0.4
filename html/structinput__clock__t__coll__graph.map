@@ -1,0 +1,7 @@
+<map id="input_clock_t" name="input_clock_t">
+<area shape="rect" id="Node000001" title="This structure is used to manage clock drift and reception jitters." alt="" coords="63,121,163,151"/>
+<area shape="rect" id="Node000002" href="$structclock__point__t.html" title=" " alt="" coords="5,5,106,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,48,108,119,103,122,67,50"/>
+<area shape="rect" id="Node000003" href="$structaverage__t.html" title="This structure holds long term average." alt="" coords="130,5,213,35"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,50,122,122,118,119,155,48"/>
+</map>

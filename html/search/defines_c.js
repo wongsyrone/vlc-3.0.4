@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['last_5fmdate_0',['LAST_MDATE',['../vlc__mtime_8h.html#a3c59f1fa06d9b1133a1b32f9493bec69',1,'vlc_mtime.h']]],
+  ['lc_5fall_5fmask_1',['LC_ALL_MASK',['../vlc__fixups_8h.html#aa46b0b4c5a3e1d02408b17283b8d9286',1,'vlc_fixups.h']]],
+  ['lc_5fglobal_5flocale_2',['LC_GLOBAL_LOCALE',['../vlc__fixups_8h.html#a30c35e179a1346223ac650826472a704',1,'vlc_fixups.h']]],
+  ['lc_5fmessages_5fmask_3',['LC_MESSAGES_MASK',['../vlc__fixups_8h.html#a2196becdb2da0dd7a8b2ccb9bb421c91',1,'vlc_fixups.h']]],
+  ['lc_5fnumeric_5fmask_4',['LC_NUMERIC_MASK',['../vlc__fixups_8h.html#a44e5a695ca5f7909b69b8fa2f96d1219',1,'vlc_fixups.h']]],
+  ['leave_5ffullscreen_5fkey_5flongtext_5',['LEAVE_FULLSCREEN_KEY_LONGTEXT',['../libvlc-module_8c.html#a8819de1760b5c474cfcdea1a7f7474f5',1,'libvlc-module.c']]],
+  ['leave_5ffullscreen_5fkey_5ftext_6',['LEAVE_FULLSCREEN_KEY_TEXT',['../libvlc-module_8c.html#aa14f2dcc384501e0c18dd20208300b31',1,'libvlc-module.c']]],
+  ['libvlc_5frole_5flast_7',['libvlc_role_Last',['../libvlc__media__player_8h.html#a0c7a144b2e73e60a2e823dc957ef2616',1,'libvlc_media_player.h']]],
+  ['libvlc_5fstats_8',['libvlc_stats',['../src_2libvlc_8h.html#a7a84d877036b7a5ead92118d9ebf8783',1,'libvlc.h']]],
+  ['license_5fmsg_9',['LICENSE_MSG',['../vlc__common_8h.html#a9eaeb79ce882778821b354c3bbe5f89e',1,'vlc_common.h']]],
+  ['likely_10',['likely',['../vlc__common_8h.html#ab21d72efaa91b8628bd6f04f63f0c248',1,'vlc_common.h']]],
+  ['line_5fstart_11',['LINE_START',['../help_8c.html#ad390357798e1d9d9c582cbe70e4180db',1,'help.c']]],
+  ['list_5ftext_12',['LIST_TEXT',['../libvlc-module_8c.html#a5ba4542fc40bed81e3e7b82b929334bc',1,'libvlc-module.c']]],
+  ['list_5fverbose_5ftext_13',['LIST_VERBOSE_TEXT',['../libvlc-module_8c.html#a02784a01db98134616972ef24f7898ee',1,'libvlc-module.c']]],
+  ['localefree_14',['LocaleFree',['../vlc__charset_8h.html#a7eca3084e4ddfbb62e95b446a73525c3',1,'vlc_charset.h']]],
+  ['longhelp_5ftext_15',['LONGHELP_TEXT',['../libvlc-module_8c.html#a3e45566620fd8c13834bc60a898f42d1',1,'libvlc-module.c']]],
+  ['lookup_16',['LOOKUP',['../win32_2thread_8c.html#a9df102edd6fcf377911d02edcfd0d3a5',1,'thread.c']]],
+  ['loop_5fkey_5flongtext_17',['LOOP_KEY_LONGTEXT',['../libvlc-module_8c.html#a2ebf2120bfc730a654c97961e6c181aa',1,'libvlc-module.c']]],
+  ['loop_5fkey_5ftext_18',['LOOP_KEY_TEXT',['../libvlc-module_8c.html#a7149eba7ef17b8665028d8e47ff76e60',1,'libvlc-module.c']]],
+  ['loop_5flongtext_19',['LOOP_LONGTEXT',['../libvlc-module_8c.html#a5e6b7aacaa96c073e49384bd8d64b5f0',1,'libvlc-module.c']]],
+  ['loop_5ftext_20',['LOOP_TEXT',['../libvlc-module_8c.html#ab95d83b36b73a823c87b938d9216f60e',1,'libvlc-module.c']]],
+  ['lstat_21',['lstat',['../posix_2filesystem_8c.html#af3dfb3debfc13d10f68efbb1994abd27',1,'filesystem.c']]]
+];

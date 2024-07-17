@@ -1,0 +1,5 @@
+<map id="Access" name="Access">
+<area shape="rect" id="Node000001" title="Raw input byte streams" alt="" coords="119,5,181,35"/>
+<area shape="rect" id="Node000003" href="$group__access__helper.html" title=" " alt="" coords="229,5,343,35"/>
+<area shape="rect" id="Node000002" href="$group__stream.html" title="Buffered input byte streams" alt="" coords="5,5,71,35"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Video sub&#45;pictures" name="Video sub&#45;pictures">
+<area shape="rect" id="Node000001" title="Subpictures are pictures that should be displayed on top of the video, like subtitles and OSD" alt="" coords="155,5,289,35"/>
+<area shape="rect" id="Node000002" href="$group__video__output.html" title="Video rendering, output and window management" alt="" coords="5,5,107,35"/>
+</map>

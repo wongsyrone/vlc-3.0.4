@@ -1,0 +1,8 @@
+<map id="vlc_logger_early_t" name="vlc_logger_early_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,218,138,247"/>
+<area shape="rect" id="Node000002" href="$structvlc__log__early__t.html" title=" " alt="" coords="16,102,127,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,147,74,217,69,217,69,147"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="143,108,153,117,145,125,127,128,127,123,143,121,148,117,140,112"/>
+<area shape="rect" id="Node000003" href="$structvlc__log__t.html" title="Log message." alt="" coords="35,5,108,35"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="74,51,74,102,69,102,69,51"/>
+</map>

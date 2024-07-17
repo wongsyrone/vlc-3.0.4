@@ -1,0 +1,6 @@
+<map id="Connections" name="Connections">
+<area shape="rect" id="Node000004" href="$group__h2.html" title=" " alt="" coords="349,5,428,35"/>
+<area shape="rect" id="Node000003" href="$group__http1.html" title=" " alt="" coords="350,59,428,88"/>
+<area shape="rect" id="Node000001" title="HTTP connections" alt="" coords="204,32,301,62"/>
+<area shape="rect" id="Node000002" href="$group__http__connmgr.html" title="HTTP connection management" alt="" coords="5,32,156,62"/>
+</map>

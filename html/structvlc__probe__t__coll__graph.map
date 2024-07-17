@@ -1,0 +1,11 @@
+<map id="vlc_probe_t" name="vlc_probe_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,97,132"/>
+<area shape="rect" id="Node000002" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="81,5,245,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,46,108,61,65,104,61,100,105,57,126,41"/>
+<area shape="rect" id="Node000003" href="$structlibvlc__int__t.html" title=" " alt="" coords="121,102,205,132"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="143,49,138,60,138,77,152,100,147,103,133,79,133,58,138,47"/>
+<area shape="rect" id="Node000004" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="232,102,324,132"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="190,44,225,76,258,99,255,104,222,80,186,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="160,87,160,35,166,35,166,87"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="267,89,249,61,232,48,212,38,215,33,235,43,253,57,271,86"/>
+</map>

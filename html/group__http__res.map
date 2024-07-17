@@ -1,0 +1,6 @@
+<map id="Resources" name="Resources">
+<area shape="rect" id="Node000002" href="$group__http.html" title="Hyper&#45;Text Transfer Protocol" alt="" coords="5,32,60,62"/>
+<area shape="rect" id="Node000001" title="Remote HTTP resources identified by a URL" alt="" coords="108,32,192,62"/>
+<area shape="rect" id="Node000003" href="$group__http__file.html" title="HTTP read&#45;only files" alt="" coords="265,5,313,35"/>
+<area shape="rect" id="Node000004" href="$group__http__live.html" title="Trivial HTTP&#45;based live streams" alt="" coords="240,59,338,88"/>
+</map>

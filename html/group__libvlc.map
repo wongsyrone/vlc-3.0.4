@@ -1,0 +1,15 @@
+<map id="LibVLC" name="LibVLC">
+<area shape="rect" id="Node000001" title="LibVLC is the external programming interface of the VLC media player." alt="" coords="5,299,68,328"/>
+<area shape="rect" id="Node000004" href="$group__libvlc__clock.html" title="These functions provide access to the LibVLC time/clock." alt="" coords="164,5,257,35"/>
+<area shape="rect" id="Node000003" href="$group__libvlc__core.html" title="Before it can do anything useful, LibVLC must be initialized." alt="" coords="164,59,256,88"/>
+<area shape="rect" id="Node000005" href="$group__libvlc__dialog.html" title=" " alt="" coords="159,112,262,142"/>
+<area shape="rect" id="Node000006" href="$group__libvlc__media.html" title="libvlc_media_t is an abstract representation of a playable media." alt="" coords="159,165,262,195"/>
+<area shape="rect" id="Node000007" href="$group__libvlc__media__discoverer.html" title="LibVLC media discovery finds available media via various means." alt="" coords="128,219,293,248"/>
+<area shape="rect" id="Node000008" href="$group__libvlc__media__library.html" title=" " alt="" coords="138,272,283,302"/>
+<area shape="rect" id="Node000009" href="$group__libvlc__media__list.html" title="A LibVLC media list holds multiple libvlc_media_t media descriptors." alt="" coords="149,325,272,355"/>
+<area shape="rect" id="Node000010" href="$group__libvlc__media__list__player.html" title="The LibVLC media list player plays a libvlc_media_list_t list of media, in a certain order." alt="" coords="128,379,293,408"/>
+<area shape="rect" id="Node000011" href="$group__libvlc__media__player.html" title="A LibVLC media player plays one media (usually in a custom drawable)." alt="" coords="138,432,283,462"/>
+<area shape="rect" id="Node000002" href="$group__libvlc__playlist.html" title=" " alt="" coords="132,485,289,515"/>
+<area shape="rect" id="Node000012" href="$group__libvlc__renderer__discoverer.html" title="LibVLC renderer discoverer finds available renderers available on the local network" alt="" coords="116,539,305,568"/>
+<area shape="rect" id="Node000013" href="$group__libvlc__vlm.html" title=" " alt="" coords="164,592,256,622"/>
+</map>

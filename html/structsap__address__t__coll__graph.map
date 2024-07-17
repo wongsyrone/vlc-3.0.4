@@ -1,0 +1,9 @@
+<map id="sap_address_t" name="sap_address_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="54,102,161,132"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="178,108,188,117,180,125,162,128,161,123,177,121,183,117,175,112"/>
+<area shape="rect" id="Node000002" href="$structvlc__thread__t.html" title="Thread handle." alt="" coords="5,5,101,35"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="71,47,102,100,97,103,66,50"/>
+<area shape="rect" id="Node000003" href="$structsession__descriptor__t.html" title=" " alt="" coords="125,5,272,35"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="177,48,123,103,119,100,173,44"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="289,12,299,20,291,28,273,31,272,26,288,23,293,20,286,16"/>
+</map>

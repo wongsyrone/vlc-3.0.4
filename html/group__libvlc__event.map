@@ -1,0 +1,4 @@
+<map id="LibVLC asynchronous events" name="LibVLC asynchronous events">
+<area shape="rect" id="Node000002" href="$group__libvlc__core.html" title="Before it can do anything useful, LibVLC must be initialized." alt="" coords="5,15,98,44"/>
+<area shape="rect" id="Node000001" title="LibVLC emits asynchronous events." alt="" coords="146,5,296,54"/>
+</map>

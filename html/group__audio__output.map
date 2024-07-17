@@ -1,0 +1,5 @@
+<map id="Audio output" name="Audio output">
+<area shape="rect" id="Node000001" title=" " alt="" coords="119,5,221,35"/>
+<area shape="rect" id="Node000003" href="$group__audio__volume.html" title=" " alt="" coords="269,5,420,35"/>
+<area shape="rect" id="Node000002" href="$group__output.html" title=" " alt="" coords="5,5,71,35"/>
+</map>

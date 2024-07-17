@@ -1,0 +1,4 @@
+<map id="Files" name="Files">
+<area shape="rect" id="Node000001" title="HTTP read&#45;only files" alt="" coords="138,5,186,35"/>
+<area shape="rect" id="Node000002" href="$group__http__res.html" title="Remote HTTP resources identified by a URL" alt="" coords="5,5,90,35"/>
+</map>

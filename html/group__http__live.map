@@ -1,0 +1,4 @@
+<map id="Live streams" name="Live streams">
+<area shape="rect" id="Node000001" title="Trivial HTTP&#45;based live streams" alt="" coords="138,5,236,35"/>
+<area shape="rect" id="Node000002" href="$group__http__res.html" title="Remote HTTP resources identified by a URL" alt="" coords="5,5,90,35"/>
+</map>

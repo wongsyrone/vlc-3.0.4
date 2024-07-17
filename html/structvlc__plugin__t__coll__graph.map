@@ -1,0 +1,20 @@
+<map id="vlc_plugin_t" name="vlc_plugin_t">
+<area shape="rect" id="Node000001" title="VLC plugin." alt="" coords="38,256,131,285"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="148,261,157,270,149,279,131,282,131,277,147,275,152,271,144,266"/>
+<area shape="rect" id="Node000002" href="$structmodule__t.html" title="Internal module descriptor." alt="" coords="45,352,124,382"/>
+<area shape="poly" id="edge3_Node000002_Node000001" title=" " alt="" coords="55,298,47,310,45,319,47,327,55,340,66,350,62,354,51,343,42,329,40,319,42,308,51,295"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="87,337,89,328,89,310,85,286,90,285,94,309,94,328,93,337"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="141,358,151,367,142,376,125,379,124,374,140,372,146,367,138,362"/>
+<area shape="rect" id="Node000003" href="$structmodule__config__t.html" title=" " alt="" coords="23,159,146,189"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="87,204,87,255,82,255,82,204"/>
+<area shape="rect" id="Node000004" href="$unionmodule__value__t.html" title=" " alt="" coords="5,5,124,35"/>
+<area shape="poly" id="edge6_Node000003_Node000004" title=" " alt="" coords="64,51,63,91,69,134,78,157,73,159,64,136,58,91,59,51"/>
+<area shape="rect" id="Node000005" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="153,5,245,35"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="159,45,141,61,116,106,93,160,88,157,111,103,137,57,155,41"/>
+<area shape="rect" id="Node000006" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="182,159,345,189"/>
+<area shape="poly" id="edge11_Node000006_Node000005" title=" " alt="" coords="193,51,187,92,190,114,197,134,208,146,223,156,220,161,205,150,193,136,185,115,182,92,187,50"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="261,144,257,102,251,81,242,60,220,37,224,34,247,58,256,79,262,101,267,143"/>
+<area shape="rect" id="Node000007" href="$structlibvlc__int__t.html" title=" " alt="" coords="242,256,327,285"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="248,203,244,217,246,231,254,243,265,253,261,257,250,246,241,233,239,217,243,202"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="275,241,264,190,269,188,281,240"/>
+</map>

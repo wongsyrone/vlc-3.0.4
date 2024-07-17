@@ -1,0 +1,33 @@
+<map id="stream_priv_t" name="stream_priv_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="403,659,508,689"/>
+<area shape="rect" id="Node000002" href="$structstream__t.html" title="stream_t definition" alt="" coords="334,558,409,588"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="395,598,446,657,442,660,391,601"/>
+<area shape="poly" id="edge15_Node000002_Node000002" title=" " alt="" coords="426,563,433,566,436,573,428,583,410,585,409,580,425,578,431,573,429,570,423,567"/>
+<area shape="rect" id="Node000003" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="155,5,319,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,33,367,44,396,61,416,85,422,99,424,115,424,470,419,502,405,531,386,559,382,556,400,529,414,500,418,469,418,116,416,100,411,87,392,65,365,49,333,38"/>
+<area shape="rect" id="Node000004" href="$structlibvlc__int__t.html" title=" " alt="" coords="40,102,124,132"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="205,46,152,80,110,104,108,99,149,76,202,42"/>
+<area shape="rect" id="Node000005" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="291,102,383,132"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="276,42,295,57,330,100,326,103,291,61,272,46"/>
+<area shape="rect" id="Node000011" href="$structinput__thread__t.html" title="Main structure representing an input thread." alt="" coords="5,179,117,208"/>
+<area shape="poly" id="edge19_Node000011_Node000003" title=" " alt="" coords="141,31,107,41,75,55,49,75,30,103,27,123,32,143,52,177,47,180,27,145,22,123,25,101,45,72,73,50,105,36,140,26"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="92,86,102,71,116,57,138,43,162,33,164,38,140,48,119,61,106,74,97,89"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="275,101,247,80,237,58,234,36,239,35,242,56,251,76,278,97"/>
+<area shape="rect" id="Node000008" href="$structmodule__config__t.html" title=" " alt="" coords="219,256,343,285"/>
+<area shape="poly" id="edge13_Node000008_Node000005" title=" " alt="" coords="329,147,289,256,284,254,324,145"/>
+<area shape="rect" id="Node000006" href="$structmodule__t.html" title="Internal module descriptor." alt="" coords="251,453,330,483"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="313,494,340,528,363,556,358,559,336,532,309,497"/>
+<area shape="poly" id="edge14_Node000006_Node000006" title=" " alt="" coords="347,458,354,461,357,468,348,478,331,480,330,475,346,473,351,468,350,465,344,462"/>
+<area shape="rect" id="Node000007" href="$structvlc__plugin__t.html" title="VLC plugin." alt="" coords="235,352,327,382"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="252,445,238,426,235,416,238,405,247,391,258,381,262,384,251,395,243,407,240,416,243,424,256,442"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="296,396,298,406,299,431,296,453,291,452,294,430,293,406,291,397"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="344,358,354,367,346,376,328,379,327,374,343,371,349,367,341,362"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="284,301,284,352,278,352,278,301"/>
+<area shape="rect" id="Node000009" href="$unionmodule__value__t.html" title=" " alt="" coords="148,102,267,132"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="221,144,261,230,274,254,270,256,256,233,217,147"/>
+<area shape="rect" id="Node000010" href="$structblock__t.html" title=" " alt="" coords="484,453,548,483"/>
+<area shape="poly" id="edge20_Node000001_Node000010" title=" " alt="" coords="523,499,522,530,517,562,506,593,487,630,468,660,463,657,482,628,501,591,512,561,517,530,517,499"/>
+<area shape="poly" id="edge16_Node000002_Node000010" title=" " alt="" coords="488,495,437,532,395,560,392,556,434,528,484,490"/>
+<area shape="poly" id="edge17_Node000010_Node000010" title=" " alt="" coords="564,457,571,461,574,468,566,478,548,480,548,475,564,473,569,468,568,465,562,462"/>
+<area shape="poly" id="edge18_Node000002_Node000011" title=" " alt="" coords="81,221,102,265,110,291,113,317,113,469,119,485,137,500,163,514,196,527,269,548,334,562,333,568,268,553,194,532,161,519,134,505,115,488,108,470,108,318,105,292,97,267,76,223"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="input_control_t" name="input_control_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,119,132"/>
+<area shape="rect" id="Node000002" href="$unionvlc__value__t.html" title="VLC value structure." alt="" coords="69,5,156,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,47,66,60,61,81,62,102,56,102,55,81,61,58,72,44"/>
+<area shape="rect" id="Node000003" href="$structvlc__list__t.html" title="VLC list structure." alt="" coords="153,102,224,132"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="107,50,107,64,111,77,130,94,154,105,151,110,127,99,106,79,101,65,101,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="181,88,168,61,140,37,144,33,172,57,186,86"/>
+</map>

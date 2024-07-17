@@ -1,0 +1,11 @@
+<map id="vlc_http_msg" name="vlc_http_msg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="14,10,115,39"/>
+<area shape="rect" id="Node000003" href="$structvlc__http__stream__cbs.html" title="HTTP stream callbacks." alt="" coords="118,110,262,140"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="79,52,90,69,104,84,123,97,144,107,141,112,120,102,100,88,85,72,74,54"/>
+<area shape="rect" id="Node000002" href="$structvlc__http__stream.html" title="HTTP stream." alt="" coords="5,207,124,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,192,52,140,54,84,59,39,65,40,59,85,57,140,63,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,152,85,209,81,204,158,147"/>
+<area shape="rect" id="Node000004" href="$structblock__t.html" title=" " alt="" coords="174,10,238,39"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="204,55,195,110,189,109,198,54"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="254,14,262,17,265,25,256,34,238,37,238,31,254,30,259,24,258,21,252,18"/>
+</map>

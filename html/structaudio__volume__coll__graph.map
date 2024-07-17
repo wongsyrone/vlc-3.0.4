@@ -1,0 +1,11 @@
+<map id="audio_volume" name="audio_volume">
+<area shape="rect" id="Node000001" title="Audio volume." alt="" coords="5,102,113,132"/>
+<area shape="rect" id="Node000002" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="97,5,261,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,46,124,61,75,103,72,99,121,57,142,41"/>
+<area shape="rect" id="Node000003" href="$structlibvlc__int__t.html" title=" " alt="" coords="137,102,221,132"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="159,49,154,60,154,77,168,100,163,103,149,79,149,58,154,47"/>
+<area shape="rect" id="Node000004" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="248,102,340,132"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="206,44,241,76,274,99,271,104,238,80,202,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="176,87,176,35,182,35,182,87"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="283,89,265,61,248,48,228,38,231,33,251,43,269,57,287,86"/>
+</map>

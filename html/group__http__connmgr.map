@@ -1,0 +1,6 @@
+<map id="Connection manager" name="Connection manager">
+<area shape="rect" id="Node000002" href="$group__http.html" title="Hyper&#45;Text Transfer Protocol" alt="" coords="5,32,60,62"/>
+<area shape="rect" id="Node000001" title="HTTP connection management" alt="" coords="108,32,258,62"/>
+<area shape="rect" id="Node000003" href="$group__http__conn.html" title="HTTP connections" alt="" coords="306,5,403,35"/>
+<area shape="rect" id="Node000004" href="$group__http__stream.html" title=" " alt="" coords="319,59,390,88"/>
+</map>

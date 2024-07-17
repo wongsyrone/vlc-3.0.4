@@ -1,0 +1,6 @@
+<map id="vlc_list_t" name="vlc_list_t">
+<area shape="rect" id="Node000001" title="VLC list structure." alt="" coords="13,5,85,35"/>
+<area shape="rect" id="Node000002" href="$unionvlc__value__t.html" title="VLC value structure." alt="" coords="5,102,93,132"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="23,48,16,60,14,68,16,77,33,100,29,103,11,79,9,68,11,58,18,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,86,50,78,50,59,48,36,53,35,56,59,56,78,55,87"/>
+</map>

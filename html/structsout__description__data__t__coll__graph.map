@@ -1,0 +1,21 @@
+<map id="sout_description_data_t" name="sout_description_data_t">
+<area shape="rect" id="Node000001" title="Description module." alt="" coords="289,295,456,325"/>
+<area shape="rect" id="Node000002" href="$structes__format__t.html" title=" " alt="" coords="325,199,420,228"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="376,244,376,295,370,295,370,244"/>
+<area shape="rect" id="Node000003" href="$structextra__languages__t.html" title="ES language definition." alt="" coords="5,102,138,132"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,139,130,157,161,172,203,186,247,196,325,206,324,212,246,201,202,191,159,177,127,161,99,143"/>
+<area shape="rect" id="Node000004" href="$structaudio__format__t.html" title="audio format description" alt="" coords="162,102,277,132"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="256,138,352,196,349,201,254,142"/>
+<area shape="rect" id="Node000005" href="$structaudio__replay__gain__t.html" title=" " alt="" coords="302,102,444,132"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="376,147,376,198,370,198,370,147"/>
+<area shape="rect" id="Node000006" href="$structvideo__format__t.html" title="video format description" alt="" coords="468,102,584,132"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="517,147,507,163,493,177,458,196,422,208,420,202,456,191,490,173,502,160,512,144"/>
+<area shape="rect" id="Node000007" href="$structvideo__palette__t.html" title=" " alt="" coords="333,5,450,35"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="420,43,463,76,501,99,498,104,460,80,417,47"/>
+<area shape="rect" id="Node000008" href="$structvlc__viewpoint__t.html" title="Viewpoints." alt="" coords="474,5,587,35"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="532,50,529,102,524,101,526,50"/>
+<area shape="rect" id="Node000009" href="$structsubs__format__t.html" title="subtitles format description" alt="" coords="608,102,717,132"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="627,142,591,160,551,177,484,196,421,208,420,203,482,191,549,172,589,156,625,137"/>
+<area shape="rect" id="Node000010" href="$structtext__style__t.html" title="Text style." alt="" coords="616,5,708,35"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="665,51,665,102,660,102,660,51"/>
+</map>

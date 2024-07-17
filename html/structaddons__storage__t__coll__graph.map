@@ -1,0 +1,11 @@
+<map id="addons_storage_t" name="addons_storage_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,136,132"/>
+<area shape="rect" id="Node000002" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="121,5,284,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,46,147,61,90,104,87,100,144,57,167,42"/>
+<area shape="rect" id="Node000003" href="$structlibvlc__int__t.html" title=" " alt="" coords="160,102,245,132"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="183,49,178,60,178,77,191,100,187,103,173,79,173,58,178,47"/>
+<area shape="rect" id="Node000004" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="271,102,363,132"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="229,44,265,76,297,99,294,104,261,80,226,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,87,200,35,205,35,205,87"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="306,89,289,61,271,48,252,38,254,33,274,43,292,57,311,86"/>
+</map>

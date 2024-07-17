@@ -1,0 +1,80 @@
+<map id="src/config/core.c" name="src/config/core.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="898,5,1021,35"/>
+<area shape="rect" id="Node000002" href="$vlc__common_8h.html" title="This file is a collection of common definitions and types." alt="" coords="918,238,1027,268"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="956,36,946,65,936,103,931,147,937,190,954,224,949,227,931,191,926,147,931,102,941,63,951,34"/>
+<area shape="rect" id="Node000022" href="$vlc__configuration_8h.html" title="This file describes the programming interface for the configuration module." alt="" coords="5,316,143,346"/>
+<area shape="poly" id="edge39_Node000001_Node000022" title=" " alt="" coords="920,38,130,313,128,308,918,33"/>
+<area shape="rect" id="Node000024" href="$vlc__actions_8h.html" title="This file defines keys and functions." alt="" coords="946,161,1044,190"/>
+<area shape="poly" id="edge33_Node000001_Node000024" title=" " alt="" coords="965,35,991,145,986,146,960,36"/>
+<area shape="rect" id="Node000025" href="$vlc__modules_8h.html" title="This file defines functions for modules in vlc." alt="" coords="645,161,754,190"/>
+<area shape="poly" id="edge35_Node000001_Node000025" title=" " alt="" coords="937,38,738,155,735,150,934,33"/>
+<area shape="rect" id="Node000026" href="$vlc__plugin_8h.html" title="This file implements plugin (module) macros used to define a vlc module." alt="" coords="778,161,871,190"/>
+<area shape="poly" id="edge37_Node000001_Node000026" title=" " alt="" coords="943,38,892,85,843,150,839,146,888,81,939,34"/>
+<area shape="rect" id="Node000027" title=" " alt="" coords="997,83,1066,113"/>
+<area shape="poly" id="edge40_Node000001_Node000027" title=" " alt="" coords="975,34,1009,70,1006,74,971,37"/>
+<area shape="rect" id="Node000028" title=" " alt="" coords="1090,83,1162,113"/>
+<area shape="poly" id="edge41_Node000001_Node000028" title=" " alt="" coords="992,33,1082,74,1080,79,990,38"/>
+<area shape="rect" id="Node000029" href="$configuration_8h.html" title=" " alt="" coords="1186,83,1301,113"/>
+<area shape="poly" id="edge42_Node000001_Node000029" title=" " alt="" coords="1013,33,1177,76,1175,81,1012,38"/>
+<area shape="rect" id="Node000030" href="$modules_8h.html" title=" " alt="" coords="1324,83,1469,113"/>
+<area shape="poly" id="edge43_Node000001_Node000030" title=" " alt="" coords="1022,30,1310,79,1309,84,1021,35"/>
+<area shape="rect" id="Node000003" href="$vlc__config_8h.html" title="This file defines of values used in interface, vout, aout and vlc core functions." alt="" coords="1755,316,1849,346"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1028,261,1069,265,1255,279,1401,284,1546,291,1732,313,1741,315,1740,320,1731,319,1546,297,1401,289,1255,284,1068,271,1027,266"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="166,316,232,346"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="918,259,631,274,443,292,252,319,248,319,247,314,251,313,442,287,631,269,917,253"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="584,394,657,423"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="918,258,762,262,565,272,389,290,328,303,309,310,297,318,292,331,297,344,315,358,342,369,415,387,497,397,569,402,569,408,496,402,414,392,340,374,312,362,293,347,286,331,293,314,306,305,327,298,388,285,564,267,761,257,918,253"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="307,316,377,346"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="918,260,692,277,545,294,392,318,392,313,544,289,691,271,917,254"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="401,316,464,346"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="918,261,728,279,606,296,480,318,479,313,605,291,727,274,917,256"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="488,316,572,346"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="918,264,772,285,587,318,586,313,771,280,917,259"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="595,316,668,346"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="918,267,683,318,682,313,917,262"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="692,316,771,346"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="928,271,786,315,785,310,926,266"/>
+<area shape="rect" id="Node000011" href="$vlc__mtime_8h.html" title=" " alt="" coords="796,316,891,346"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="942,271,875,310,872,305,940,266"/>
+<area shape="rect" id="Node000012" href="$vlc__threads_8h.html" title="Thread primitive declarations." alt="" coords="1262,316,1364,346"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="1028,266,1247,314,1246,319,1027,271"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1055,316,1120,346"/>
+<area shape="poly" id="edge18_Node000002_Node000016" title=" " alt="" coords="996,266,1055,305,1052,310,993,271"/>
+<area shape="rect" id="Node000017" href="$vlc__arrays_8h.html" title="This file defines functions, structures and macros for handling arrays in vlc." alt="" coords="1145,316,1238,346"/>
+<area shape="poly" id="edge19_Node000002_Node000017" title=" " alt="" coords="1007,266,1131,309,1129,314,1006,271"/>
+<area shape="rect" id="Node000018" href="$vlc__messages_8h.html" title="Logging functions." alt="" coords="914,316,1031,346"/>
+<area shape="poly" id="edge21_Node000002_Node000018" title=" " alt="" coords="968,269,967,300,961,300,963,268"/>
+<area shape="rect" id="Node000019" href="$vlc__objects_8h.html" title="Common VLC object defintions." alt="" coords="1388,316,1488,346"/>
+<area shape="poly" id="edge24_Node000002_Node000019" title=" " alt="" coords="1028,260,1180,283,1364,313,1374,315,1373,320,1363,319,1179,288,1028,266"/>
+<area shape="rect" id="Node000020" href="$vlc__variables_8h.html" title="VLC object variables and callbacks interface." alt="" coords="1512,316,1622,346"/>
+<area shape="poly" id="edge26_Node000002_Node000020" title=" " alt="" coords="1028,260,1069,265,1279,287,1370,297,1488,313,1497,315,1496,320,1487,319,1370,302,1278,292,1068,271,1027,266"/>
+<area shape="rect" id="Node000021" href="$vlc__main_8h.html" title="This file defines libvlc_int_t internal libvlc instance." alt="" coords="1646,316,1731,346"/>
+<area shape="poly" id="edge28_Node000002_Node000021" title=" " alt="" coords="1028,261,1069,265,1225,278,1346,284,1468,292,1622,313,1631,315,1630,320,1622,319,1467,298,1346,289,1224,283,1068,271,1027,266"/>
+<area shape="poly" id="edge30_Node000002_Node000022" title=" " alt="" coords="918,259,597,277,380,294,158,317,158,311,380,289,596,272,918,254"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="1755,319,1569,297,1424,289,1279,284,1092,271,1042,265,1043,260,1093,265,1279,279,1425,284,1570,291,1755,313"/>
+<area shape="poly" id="edge12_Node000011_Node000002" title=" " alt="" coords="873,313,941,274,944,279,876,318"/>
+<area shape="poly" id="edge14_Node000012_Node000002" title=" " alt="" coords="1261,319,1042,271,1043,266,1262,314"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1277,394,1348,423"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="1315,346,1315,378,1310,378,1310,346"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1373,394,1455,423"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="1333,344,1385,382,1381,386,1330,348"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="1149,394,1252,423"/>
+<area shape="poly" id="edge17_Node000012_Node000015" title=" " alt="" coords="1293,348,1236,387,1233,382,1290,344"/>
+<area shape="poly" id="edge20_Node000017_Node000002" title=" " alt="" coords="1157,318,1034,276,1036,271,1158,313"/>
+<area shape="poly" id="edge22_Node000018_Node000002" title=" " alt="" coords="977,315,979,284,984,284,983,316"/>
+<area shape="poly" id="edge23_Node000018_Node000005" title=" " alt="" coords="915,347,673,399,672,394,914,342"/>
+<area shape="poly" id="edge25_Node000019_Node000002" title=" " alt="" coords="1388,319,1387,319,1200,288,1042,265,1043,260,1201,282,1388,313,1388,313"/>
+<area shape="poly" id="edge27_Node000020_Node000002" title=" " alt="" coords="1511,319,1511,319,1394,302,1302,292,1092,271,1042,265,1043,259,1093,265,1303,287,1394,297,1512,313,1512,313"/>
+<area shape="poly" id="edge29_Node000021_Node000002" title=" " alt="" coords="1645,319,1491,298,1370,289,1248,283,1092,271,1042,265,1043,260,1093,265,1249,278,1370,284,1491,292,1646,313"/>
+<area shape="poly" id="edge31_Node000022_Node000002" title=" " alt="" coords="143,317,166,313,376,291,583,275,903,255,903,261,584,280,376,297,166,319,143,322"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="28,394,120,423"/>
+<area shape="poly" id="edge32_Node000022_Node000023" title=" " alt="" coords="77,346,77,378,71,378,71,346"/>
+<area shape="poly" id="edge34_Node000024_Node000002" title=" " alt="" coords="994,192,984,224,979,223,989,190"/>
+<area shape="poly" id="edge36_Node000025_Node000002" title=" " alt="" coords="751,188,908,231,906,236,750,194"/>
+<area shape="poly" id="edge38_Node000026_Node000002" title=" " alt="" coords="854,189,933,229,930,233,851,193"/>
+<area shape="rect" id="Node000031" href="$vlc__atomic_8h.html" title="Atomic operations do not require locking, but they are not very powerful." alt="" coords="1091,161,1188,190"/>
+<area shape="poly" id="edge44_Node000030_Node000031" title=" " alt="" coords="1349,116,1203,158,1201,153,1348,111"/>
+<area shape="poly" id="edge45_Node000031_Node000002" title=" " alt="" coords="1109,193,1019,234,1017,229,1107,189"/>
+<area shape="rect" id="Node000032" title=" " alt="" coords="1093,238,1186,268"/>
+<area shape="poly" id="edge46_Node000031_Node000032" title=" " alt="" coords="1142,191,1142,223,1137,223,1137,191"/>
+</map>

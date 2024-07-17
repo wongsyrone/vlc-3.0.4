@@ -1,0 +1,21 @@
+<map id="vlc_h1_conn" name="vlc_h1_conn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,304,172,333"/>
+<area shape="rect" id="Node000002" href="$structvlc__http__conn.html" title=" " alt="" coords="419,207,524,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="405,244,173,307,172,302,404,239"/>
+<area shape="rect" id="Node000003" href="$structvlc__http__conn__cbs.html" title=" " alt="" coords="406,106,537,136"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="474,151,474,206,469,206,469,151"/>
+<area shape="rect" id="Node000004" href="$structvlc__http__stream.html" title="HTTP stream." alt="" coords="263,5,381,35"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="248,34,183,45,115,60,57,80,36,91,23,104,10,129,9,157,17,185,32,213,72,265,110,302,106,305,68,268,27,216,12,187,4,157,5,128,18,100,33,87,55,75,114,55,181,39,247,28"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="358,42,451,103,448,108,355,46"/>
+<area shape="rect" id="Node000006" href="$structvlc__http__msg.html" title=" " alt="" coords="209,106,310,136"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="299,49,291,60,267,107,262,104,286,58,295,45"/>
+<area shape="rect" id="Node000005" href="$structvlc__http__stream__cbs.html" title="HTTP stream callbacks." alt="" coords="178,207,322,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="321,197,337,181,351,151,353,124,337,60,328,37,333,35,342,58,358,124,356,152,341,185,325,201"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="256,151,254,164,252,207,247,206,249,164,251,151"/>
+<area shape="rect" id="Node000007" href="$structblock__t.html" title=" " alt="" coords="32,106,97,136"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="106,141,225,204,222,209,103,146"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="113,110,120,114,123,121,115,131,97,133,97,128,112,126,118,121,116,118,111,115"/>
+<area shape="rect" id="Node000008" href="$structvlc__tls.html" title="Transport layer socket." alt="" coords="561,106,619,136"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="563,148,490,209,487,204,560,144"/>
+<area shape="poly" id="edge10_Node000008_Node000008" title=" " alt="" coords="636,110,642,114,645,121,637,131,619,133,619,128,634,127,640,121,638,118,633,115"/>
+</map>

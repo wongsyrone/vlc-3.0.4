@@ -1,0 +1,9 @@
+<map id="Input" name="Input">
+<area shape="rect" id="Node000002" href="$group__block.html" title=" " alt="" coords="125,5,216,35"/>
+<area shape="rect" id="Node000003" href="$group__demux.html" title="Demultiplexers (file format parsers)" alt="" coords="116,59,226,88"/>
+<area shape="rect" id="Node000004" href="$group__es__out.html" title="Elementary streams output" alt="" coords="131,112,211,142"/>
+<area shape="rect" id="Node000001" title="Input thread" alt="" coords="5,139,61,168"/>
+<area shape="rect" id="Node000005" href="$group__inputvariable.html" title=" " alt="" coords="114,165,228,195"/>
+<area shape="rect" id="Node000006" href="$group__stream.html" title="Buffered input byte streams" alt="" coords="138,219,204,248"/>
+<area shape="rect" id="Node000007" href="$group__stream__extractor.html" title=" " alt="" coords="109,272,233,302"/>
+</map>

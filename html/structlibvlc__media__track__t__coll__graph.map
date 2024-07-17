@@ -1,0 +1,11 @@
+<map id="libvlc_media_track_t" name="libvlc_media_track_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="166,199,308,228"/>
+<area shape="rect" id="Node000002" href="$structlibvlc__audio__track__t.html" title=" " alt="" coords="5,102,144,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,137,215,196,212,201,110,142"/>
+<area shape="rect" id="Node000003" href="$structlibvlc__video__track__t.html" title=" " alt="" coords="168,102,306,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,147,240,198,234,198,234,147"/>
+<area shape="rect" id="Node000004" href="$structlibvlc__video__viewpoint__t.html" title="Viewpoint." alt="" coords="154,5,321,35"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="240,51,240,102,234,102,234,51"/>
+<area shape="rect" id="Node000005" href="$structlibvlc__subtitle__track__t.html" title=" " alt="" coords="330,102,480,132"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="368,142,263,201,261,196,365,137"/>
+</map>

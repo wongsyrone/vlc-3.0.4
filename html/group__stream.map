@@ -1,0 +1,6 @@
+<map id="Stream" name="Stream">
+<area shape="rect" id="Node000003" href="$group__access.html" title="Raw input byte streams" alt="" coords="239,5,301,35"/>
+<area shape="rect" id="Node000002" href="$group__input.html" title="Input thread" alt="" coords="5,32,61,62"/>
+<area shape="rect" id="Node000001" title="Buffered input byte streams" alt="" coords="109,32,174,62"/>
+<area shape="rect" id="Node000004" href="$group__stream__fifo.html" title="In&#45;memory anonymous pipe" alt="" coords="222,59,318,88"/>
+</map>

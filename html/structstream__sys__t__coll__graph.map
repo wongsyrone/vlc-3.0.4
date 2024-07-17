@@ -1,0 +1,8 @@
+<map id="stream_sys_t" name="stream_sys_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,226,106,256"/>
+<area shape="rect" id="Node000002" href="$structblock__fifo__t.html" title="Internal state for block queues." alt="" coords="10,129,101,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,175,58,226,53,226,53,175"/>
+<area shape="rect" id="Node000003" href="$structblock__t.html" title=" " alt="" coords="23,10,88,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="58,55,58,129,53,129,53,55"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="104,12,111,17,114,25,106,36,88,39,87,33,103,31,109,24,107,20,102,17"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="background_worker" name="background_worker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,102,253,132"/>
+<area shape="rect" id="Node000002" href="$structbackground__worker__config.html" title=" " alt="" coords="5,5,195,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,45,170,100,166,103,119,48"/>
+<area shape="rect" id="Node000003" href="$structvlc__array__t.html" title=" " alt="" coords="218,5,304,35"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,48,194,103,190,100,238,45"/>
+</map>

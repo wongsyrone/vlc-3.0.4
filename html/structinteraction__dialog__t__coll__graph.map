@@ -1,0 +1,35 @@
+<map id="interaction_dialog_t" name="interaction_dialog_t">
+<area shape="rect" id="Node000001" title="This structure describes a piece of interaction with the user." alt="" coords="134,546,275,575"/>
+<area shape="rect" id="Node000002" href="$unionvlc__value__t.html" title="VLC value structure." alt="" coords="56,449,143,479"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,487,191,543,187,547,124,491"/>
+<area shape="rect" id="Node000003" href="$structvlc__list__t.html" title="VLC list structure." alt="" coords="8,546,79,575"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="42,480,24,490,11,504,8,514,11,524,27,543,23,547,6,526,3,514,6,501,21,486,39,475"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="61,531,68,520,90,478,95,480,72,523,65,534"/>
+<area shape="rect" id="Node000004" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="250,5,343,35"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="255,46,240,61,222,88,212,113,208,139,207,173,207,465,207,545,202,545,202,465,202,172,203,138,207,111,217,86,236,57,252,42"/>
+<area shape="rect" id="Node000005" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="242,159,405,189"/>
+<area shape="poly" id="edge8_Node000005_Node000004" title=" " alt="" coords="266,47,258,60,250,81,246,98,249,114,258,134,269,146,283,156,280,161,265,150,253,136,244,116,241,98,245,79,253,58,262,44"/>
+<area shape="rect" id="Node000010" href="$structmodule__config__t.html" title=" " alt="" coords="430,159,553,189"/>
+<area shape="poly" id="edge18_Node000010_Node000004" title=" " alt="" coords="328,42,475,156,472,161,325,47"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="316,144,302,59,297,36,302,35,307,59,322,143"/>
+<area shape="rect" id="Node000006" href="$structlibvlc__int__t.html" title=" " alt="" coords="246,256,331,285"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="287,200,277,214,274,224,275,234,283,254,277,256,270,235,269,223,272,212,283,197"/>
+<area shape="rect" id="Node000007" href="$structintf__thread__t.html" title="Describe all interface&#45;specific data of the interface thread." alt="" coords="350,449,451,479"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="344,201,350,212,372,279,388,348,402,448,397,449,382,348,367,281,345,214,340,203"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="297,240,316,188,321,190,302,242"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="359,488,235,548,232,543,357,483"/>
+<area shape="poly" id="edge11_Node000007_Node000007" title=" " alt="" coords="468,455,477,464,469,473,452,475,451,470,467,468,472,464,465,459"/>
+<area shape="rect" id="Node000008" href="$structmodule__t.html" title="Internal module descriptor." alt="" coords="409,352,488,382"/>
+<area shape="poly" id="edge12_Node000007_Node000008" title=" " alt="" coords="437,397,410,450,405,447,432,394"/>
+<area shape="poly" id="edge19_Node000008_Node000008" title=" " alt="" coords="505,358,515,367,507,376,489,379,488,374,504,372,510,367,502,362"/>
+<area shape="rect" id="Node000009" href="$structvlc__plugin__t.html" title="VLC plugin." alt="" coords="445,256,537,285"/>
+<area shape="poly" id="edge15_Node000009_Node000008" title=" " alt="" coords="470,339,477,327,484,306,488,285,493,286,489,307,482,329,475,342"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="452,297,441,310,438,331,444,351,439,353,433,332,436,308,447,293"/>
+<area shape="poly" id="edge14_Node000009_Node000009" title=" " alt="" coords="555,261,564,270,556,279,538,282,537,277,554,275,559,271,551,266"/>
+<area shape="poly" id="edge16_Node000009_Node000010" title=" " alt="" coords="494,204,494,255,489,255,489,204"/>
+<area shape="rect" id="Node000011" href="$unionmodule__value__t.html" title=" " alt="" coords="432,5,550,35"/>
+<area shape="poly" id="edge17_Node000010_Node000011" title=" " alt="" coords="494,50,494,159,489,159,489,50"/>
+<area shape="rect" id="Node000012" href="$structconfig__chain__t.html" title=" " alt="" coords="566,352,675,382"/>
+<area shape="poly" id="edge20_Node000007_Node000012" title=" " alt="" coords="579,391,499,427,440,451,438,446,497,423,577,387"/>
+<area shape="poly" id="edge21_Node000012_Node000012" title=" " alt="" coords="692,358,701,367,693,376,676,379,675,373,691,371,696,367,689,363"/>
+</map>

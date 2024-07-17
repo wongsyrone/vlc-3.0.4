@@ -1,0 +1,13 @@
+<map id="vlc_h2_output" name="vlc_h2_output">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,237,228,266"/>
+<area shape="rect" id="Node000002" href="$structvlc__tls.html" title="Transport layer socket." alt="" coords="5,121,63,151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,159,158,234,155,238,61,163"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="80,124,86,129,89,136,81,147,64,149,63,144,78,142,84,135,82,132,77,129"/>
+<area shape="rect" id="Node000003" href="$structvlc__h2__queue.html" title=" " alt="" coords="121,121,227,151"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="177,166,177,236,171,236,171,166"/>
+<area shape="rect" id="Node000004" href="$structvlc__h2__frame.html" title=" " alt="" coords="123,5,225,35"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="177,50,177,121,171,121,171,50"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="243,10,252,20,244,30,226,34,225,28,241,25,247,20,239,14"/>
+<area shape="rect" id="Node000005" href="$structvlc__thread__t.html" title="Thread handle." alt="" coords="250,121,346,151"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="276,163,221,215,193,238,190,234,218,211,272,159"/>
+</map>

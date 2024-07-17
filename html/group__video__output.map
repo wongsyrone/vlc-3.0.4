@@ -1,0 +1,8 @@
+<map id="Video output" name="Video output">
+<area shape="rect" id="Node000002" href="$group__output.html" title=" " alt="" coords="5,85,71,115"/>
+<area shape="rect" id="Node000001" title="Video rendering, output and window management" alt="" coords="119,85,220,115"/>
+<area shape="rect" id="Node000003" href="$group__spu.html" title=" " alt="" coords="268,5,416,35"/>
+<area shape="rect" id="Node000004" href="$group__subpicture.html" title="Subpictures are pictures that should be displayed on top of the video, like subtitles and OSD" alt="" coords="275,59,409,88"/>
+<area shape="rect" id="Node000005" href="$group__video__display.html" title="Video output display: output buffers and rendering" alt="" coords="269,112,415,142"/>
+<area shape="rect" id="Node000006" href="$group__video__window.html" title="Video output window management" alt="" coords="289,165,395,195"/>
+</map>

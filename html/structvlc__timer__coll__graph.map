@@ -1,0 +1,5 @@
+<map id="vlc_timer" name="vlc_timer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="14,102,92,132"/>
+<area shape="rect" id="Node000002" href="$structvlc__thread__t.html" title="Thread handle." alt="" coords="5,5,101,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,51,56,102,50,102,50,51"/>
+</map>

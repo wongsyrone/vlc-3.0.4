@@ -1,0 +1,8 @@
+<map id="LibVLC core" name="LibVLC core">
+<area shape="rect" id="Node000002" href="$group__libvlc.html" title="LibVLC is the external programming interface of the VLC media player." alt="" coords="5,100,68,130"/>
+<area shape="rect" id="Node000001" title="Before it can do anything useful, LibVLC must be initialized." alt="" coords="116,100,208,130"/>
+<area shape="rect" id="Node000004" href="$group__libvlc__error.html" title=" " alt="" coords="260,5,414,35"/>
+<area shape="rect" id="Node000005" href="$group__libvlc__event.html" title="LibVLC emits asynchronous events." alt="" coords="262,58,412,107"/>
+<area shape="rect" id="Node000006" href="$group__libvlc__log.html" title="libvlc_log_* functions provide access to the LibVLC messages log." alt="" coords="281,131,392,160"/>
+<area shape="rect" id="Node000003" href="$group__libvlc__log__deprecated.html" title=" " alt="" coords="256,184,417,214"/>
+</map>

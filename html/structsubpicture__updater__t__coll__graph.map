@@ -1,0 +1,17 @@
+<map id="subpicture_updater_t" name="subpicture_updater_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,333,159,363"/>
+<area shape="rect" id="Node000002" href="$structsubpicture__updater__sys__t.html" title=" " alt="" coords="11,218,153,266"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,282,85,333,79,333,79,282"/>
+<area shape="rect" id="Node000003" href="$structvlc__epg__t.html" title=" " alt="" coords="39,121,117,151"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,166,82,194,83,217,78,217,76,194,76,167"/>
+<area shape="rect" id="Node000004" href="$structvlc__epg__event__t.html" title=" " alt="" coords="18,5,138,35"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="81,50,81,121,75,121,75,50"/>
+<area shape="rect" id="Node000005" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="142,121,235,151"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="165,164,108,219,104,215,161,160"/>
+<area shape="rect" id="Node000006" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="179,227,342,257"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="183,166,183,180,187,192,203,211,224,224,221,229,199,215,182,195,178,181,178,166"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="250,213,232,176,208,153,211,149,236,173,255,211"/>
+<area shape="rect" id="Node000007" href="$structlibvlc__int__t.html" title=" " alt="" coords="228,333,312,363"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="245,271,238,290,240,308,256,331,251,334,235,310,233,289,240,269"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="265,318,259,258,265,257,270,318"/>
+</map>

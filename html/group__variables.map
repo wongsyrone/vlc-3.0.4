@@ -1,0 +1,8 @@
+<map id="Variables" name="Variables">
+<area shape="rect" id="Node000006" href="$group__var__GetAndSet.html" title="These are the different actions that can be used with var_GetAndSet()" alt="" coords="270,5,387,35"/>
+<area shape="rect" id="Node000005" href="$group__var__action.html" title="These are the different actions that can be used with var_Change()." alt="" coords="270,59,387,88"/>
+<area shape="rect" id="Node000004" href="$group__var__flags.html" title="These flags are added to the type field of the variable." alt="" coords="276,112,381,142"/>
+<area shape="rect" id="Node000003" href="$group__var__type.html" title="These are the different types a vlc variable can have." alt="" coords="274,165,383,195"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,85,222,115"/>
+<area shape="rect" id="Node000002" href="$group__vlc__object.html" title=" " alt="" coords="5,85,97,115"/>
+</map>

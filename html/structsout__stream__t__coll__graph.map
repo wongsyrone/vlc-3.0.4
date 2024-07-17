@@ -1,0 +1,31 @@
+<map id="sout_stream_t" name="sout_stream_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,546,229,575"/>
+<area shape="poly" id="edge19_Node000001_Node000001" title=" " alt="" coords="246,552,255,560,247,569,230,572,229,567,245,564,250,561,243,556"/>
+<area shape="rect" id="Node000009" href="$structsout__instance__t.html" title="Stream output instance (FIXME: should be private to src/ to avoid invalid unsynchronized access)" alt="" coords="42,642,158,672"/>
+<area shape="poly" id="edge16_Node000009_Node000001" title=" " alt="" coords="165,591,147,620,122,644,119,640,143,617,161,588"/>
+<area shape="rect" id="Node000002" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="158,5,322,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="338,33,370,44,399,61,419,85,425,99,427,115,427,466,421,482,405,496,355,520,291,539,230,552,229,547,290,534,353,515,402,492,416,479,421,465,421,116,419,100,414,87,395,65,368,49,336,38"/>
+<area shape="rect" id="Node000003" href="$structlibvlc__int__t.html" title=" " alt="" coords="43,102,128,132"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="208,46,155,80,113,104,111,99,152,76,205,42"/>
+<area shape="rect" id="Node000004" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="294,102,386,132"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="279,42,298,57,333,100,329,103,294,61,275,46"/>
+<area shape="poly" id="edge15_Node000009_Node000002" title=" " alt="" coords="143,26,95,35,51,51,34,63,20,77,11,95,8,116,8,562,14,587,29,608,50,626,71,639,69,644,47,630,25,612,9,589,3,562,3,115,6,93,16,74,30,59,49,46,94,30,143,21"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,86,105,71,119,57,141,43,165,33,167,38,143,48,122,61,109,74,100,89"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="278,101,250,80,240,58,237,36,242,35,245,56,254,76,281,97"/>
+<area shape="rect" id="Node000007" href="$structmodule__config__t.html" title=" " alt="" coords="149,256,272,285"/>
+<area shape="poly" id="edge12_Node000007_Node000004" title=" " alt="" coords="323,146,251,233,228,257,224,253,247,230,319,142"/>
+<area shape="rect" id="Node000005" href="$structmodule__t.html" title="Internal module descriptor." alt="" coords="52,449,132,479"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="111,490,134,520,159,543,155,547,130,523,107,494"/>
+<area shape="poly" id="edge13_Node000005_Node000005" title=" " alt="" coords="149,454,158,464,150,473,132,476,131,470,148,468,153,464,145,459"/>
+<area shape="rect" id="Node000006" href="$structvlc__plugin__t.html" title="VLC plugin." alt="" coords="127,352,220,382"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="81,434,81,419,86,405,104,387,125,376,128,381,107,391,91,407,86,420,86,434"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="164,398,146,427,118,451,114,446,142,423,160,395"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="237,358,246,367,238,376,220,379,219,374,236,371,241,367,233,362"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="202,300,181,353,176,351,197,298"/>
+<area shape="rect" id="Node000008" href="$unionmodule__value__t.html" title=" " alt="" coords="152,102,270,132"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="213,147,213,255,208,255,208,147"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="92,626,94,612,99,598,112,584,127,574,130,578,115,588,104,601,99,613,98,627"/>
+<area shape="rect" id="Node000010" href="$structconfig__chain__t.html" title=" " alt="" coords="210,449,318,479"/>
+<area shape="poly" id="edge17_Node000001_Node000010" title=" " alt="" coords="243,492,190,547,186,543,239,488"/>
+<area shape="poly" id="edge18_Node000010_Node000010" title=" " alt="" coords="336,455,345,464,337,472,319,475,318,470,334,468,340,464,332,459"/>
+</map>

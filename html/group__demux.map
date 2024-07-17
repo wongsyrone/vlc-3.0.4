@@ -1,0 +1,5 @@
+<map id="Demultiplexer" name="Demultiplexer">
+<area shape="rect" id="Node000003" href="$group__chained__demux.html" title="Demultiplexers wrapped by another demultiplexer" alt="" coords="266,5,426,35"/>
+<area shape="rect" id="Node000001" title="Demultiplexers (file format parsers)" alt="" coords="109,5,218,35"/>
+<area shape="rect" id="Node000002" href="$group__input.html" title="Input thread" alt="" coords="5,5,61,35"/>
+</map>

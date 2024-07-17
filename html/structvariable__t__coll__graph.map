@@ -1,0 +1,23 @@
+<map id="variable_t" name="variable_t">
+<area shape="rect" id="Node000001" title="The structure describing a variable." alt="" coords="115,380,196,409"/>
+<area shape="rect" id="Node000002" href="$unionvlc__value__t.html" title="VLC value structure." alt="" coords="5,121,93,151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,166,25,193,15,226,13,260,20,293,38,321,63,345,92,363,119,377,117,382,89,368,60,349,34,325,15,295,7,260,10,225,20,191,31,164"/>
+<area shape="rect" id="Node000003" href="$structvlc__list__t.html" title="VLC list structure." alt="" coords="59,241,130,270"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="45,166,48,193,62,218,80,238,76,242,57,221,42,194,40,166"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="91,286,91,321,94,338,100,354,111,367,124,377,121,381,107,371,96,357,89,340,85,321,86,286"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,226,109,201,104,176,94,163,80,153,83,149,98,159,109,174,114,201,109,227"/>
+<area shape="rect" id="Node000004" href="$structvariable__ops__t.html" title=" " alt="" coords="154,241,264,270"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="205,286,181,357,168,380,163,378,176,355,200,284"/>
+<area shape="rect" id="Node000005" href="$structcallback__table__t.html" title=" " alt="" coords="288,241,404,270"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="321,283,277,320,225,358,185,382,182,377,222,353,274,315,318,279"/>
+<area shape="rect" id="Node000006" href="$structcallback__entry__t.html" title=" " alt="" coords="287,121,406,151"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="349,166,349,240,344,240,344,166"/>
+<area shape="rect" id="Node000007" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="436,5,528,35"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="422,30,390,41,363,61,355,74,350,90,348,121,342,120,345,89,350,72,359,57,388,36,420,25"/>
+<area shape="rect" id="Node000008" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="453,121,616,151"/>
+<area shape="poly" id="edge12_Node000008_Node000007" title=" " alt="" coords="477,50,475,73,481,96,491,108,504,118,501,123,487,112,476,98,470,74,471,50"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="534,106,533,83,525,60,516,48,504,38,508,34,520,44,530,58,538,82,540,106"/>
+<area shape="rect" id="Node000009" href="$structlibvlc__int__t.html" title=" " alt="" coords="492,241,576,270"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="514,165,510,175,508,192,511,209,526,239,521,241,506,211,502,193,504,174,510,163"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="532,225,532,151,537,151,537,225"/>
+</map>

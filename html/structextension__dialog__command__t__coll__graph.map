@@ -1,0 +1,19 @@
+<map id="extension_dialog_command_t" name="extension_dialog_command_t">
+<area shape="rect" id="Node000001" title="Command to pass to the extension dialog owner." alt="" coords="283,218,486,247"/>
+<area shape="rect" id="Node000002" href="$structextension__dialog__t.html" title="Dialog descriptor for extensions." alt="" coords="285,112,420,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,155,383,217,378,218,359,157"/>
+<area shape="rect" id="Node000006" href="$structextension__widget__t.html" title="Widget descriptor for extensions." alt="" coords="118,218,258,247"/>
+<area shape="poly" id="edge10_Node000006_Node000002" title=" " alt="" coords="289,149,239,165,212,177,199,197,193,218,188,216,194,194,209,173,238,160,287,144"/>
+<area shape="rect" id="Node000003" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="405,5,497,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,45,383,61,367,86,358,112,353,110,362,84,379,57,399,41"/>
+<area shape="rect" id="Node000004" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="444,112,607,141"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="445,50,445,64,449,77,466,95,487,109,484,113,462,99,445,79,440,65,440,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="514,98,494,61,470,37,474,34,498,57,519,95"/>
+<area shape="rect" id="Node000005" href="$structlibvlc__int__t.html" title=" " alt="" coords="510,218,594,247"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="514,156,510,175,513,193,521,205,532,215,528,219,517,208,508,195,505,175,509,155"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="543,204,527,142,532,141,548,202"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="236,208,268,191,305,165,336,139,339,144,309,169,271,196,239,213"/>
+<area shape="rect" id="Node000007" href="$structextension__widget__t_1_1extension__widget__value__t.html" title=" " alt="" coords="5,102,193,151"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="113,164,130,192,160,215,157,219,126,195,109,166"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="210,117,219,126,211,135,194,139,193,134,209,130,214,126,206,121"/>
+</map>

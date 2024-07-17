@@ -1,0 +1,6 @@
+<map id="text_segment_t" name="text_segment_t">
+<area shape="rect" id="Node000001" title="Text segment for subtitles." alt="" coords="5,102,123,132"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="140,108,149,117,141,125,124,128,123,123,139,121,144,117,136,112"/>
+<area shape="rect" id="Node000002" href="$structtext__style__t.html" title="Text style." alt="" coords="18,5,110,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,51,67,102,61,102,61,51"/>
+</map>

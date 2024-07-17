@@ -1,0 +1,44 @@
+<map id="httpd_host_t" name="httpd_host_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="230,642,330,672"/>
+<area shape="rect" id="Node000006" href="$structhttpd__url__t.html" title=" " alt="" coords="247,739,336,769"/>
+<area shape="poly" id="edge8_Node000006_Node000001" title=" " alt="" coords="286,687,293,738,287,739,281,688"/>
+<area shape="rect" id="Node000002" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="297,5,460,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="476,25,518,35,556,52,572,64,584,79,592,96,594,115,594,562,586,582,565,600,533,614,495,626,409,643,330,654,330,649,408,638,493,621,531,609,562,595,582,579,589,561,589,116,587,97,579,81,568,68,553,57,516,40,475,30"/>
+<area shape="rect" id="Node000003" href="$structlibvlc__int__t.html" title=" " alt="" coords="211,102,295,132"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="359,48,324,80,285,104,282,99,321,76,355,44"/>
+<area shape="rect" id="Node000004" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="462,102,554,132"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="448,39,476,57,494,78,505,100,500,103,489,81,473,61,445,44"/>
+<area shape="rect" id="Node000011" href="$structvlc__tls__creds.html" title="TLS credentials." alt="" coords="125,546,221,575"/>
+<area shape="poly" id="edge18_Node000011_Node000002" title=" " alt="" coords="283,32,243,43,209,59,185,83,178,98,176,116,176,465,176,545,170,545,170,465,171,115,173,97,180,80,206,55,241,38,281,27"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,87,288,57,308,43,330,33,332,38,311,48,291,61,268,90"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="457,97,429,80,405,59,387,37,391,34,409,55,432,76,460,93"/>
+<area shape="rect" id="Node000014" href="$structmodule__config__t.html" title=" " alt="" coords="317,256,440,285"/>
+<area shape="poly" id="edge25_Node000014_Node000004" title=" " alt="" coords="491,146,419,233,396,257,392,253,415,230,487,142"/>
+<area shape="rect" id="Node000005" href="$structvlc__thread__t.html" title="Thread handle." alt="" coords="246,546,341,575"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="292,591,284,642,279,642,286,590"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="261,729,253,716,251,704,254,692,265,671,270,674,259,693,257,704,258,714,265,726"/>
+<area shape="rect" id="Node000007" href="$structhttpd__client__t.html" title=" " alt="" coords="159,836,264,865"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="253,779,237,794,224,815,217,836,212,835,220,813,232,791,249,775"/>
+<area shape="poly" id="edge16_Node000001_Node000007" title=" " alt="" coords="199,821,191,781,192,759,197,738,209,717,224,698,257,670,260,674,228,702,213,720,202,740,197,760,197,781,204,820"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="244,824,258,810,273,789,283,768,288,770,277,791,262,813,247,828"/>
+<area shape="rect" id="Node000009" href="$structhttpd__message__t.html" title=" " alt="" coords="94,951,221,981"/>
+<area shape="poly" id="edge14_Node000009_Node000007" title=" " alt="" coords="218,881,217,905,209,929,198,942,185,953,182,949,194,939,204,926,211,904,213,880"/>
+<area shape="rect" id="Node000008" href="$structvlc__tls.html" title="Transport layer socket." alt="" coords="43,449,100,479"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="75,494,76,559,76,755,78,770,83,783,103,805,130,822,160,834,158,839,128,826,100,809,79,786,73,771,71,755,71,559,70,494"/>
+<area shape="poly" id="edge12_Node000008_Node000008" title=" " alt="" coords="117,454,124,457,127,464,119,473,101,475,101,470,116,469,122,463,120,461,115,459"/>
+<area shape="poly" id="edge27_Node000011_Node000008" title=" " alt="" coords="93,489,121,520,152,543,149,547,118,524,89,493"/>
+<area shape="poly" id="edge13_Node000007_Node000009" title=" " alt="" coords="149,936,149,912,156,888,167,874,180,864,184,868,171,878,161,891,154,913,154,936"/>
+<area shape="rect" id="Node000010" href="$structhttpd__header.html" title=" " alt="" coords="5,836,112,865"/>
+<area shape="poly" id="edge15_Node000009_Node000010" title=" " alt="" coords="63,880,69,904,81,926,95,939,112,949,110,953,92,943,76,929,64,906,58,881"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="202,583,266,640,262,644,198,587"/>
+<area shape="rect" id="Node000012" href="$structmodule__t.html" title="Internal module descriptor." alt="" coords="223,449,302,479"/>
+<area shape="poly" id="edge19_Node000011_Node000012" title=" " alt="" coords="241,492,188,547,184,543,237,488"/>
+<area shape="poly" id="edge26_Node000012_Node000012" title=" " alt="" coords="319,454,329,464,320,473,303,476,302,470,318,468,324,464,316,459"/>
+<area shape="rect" id="Node000013" href="$structvlc__plugin__t.html" title="VLC plugin." alt="" coords="298,352,390,382"/>
+<area shape="poly" id="edge22_Node000013_Node000012" title=" " alt="" coords="252,434,252,419,257,405,274,387,296,376,298,381,277,391,261,407,257,420,257,434"/>
+<area shape="poly" id="edge20_Node000012_Node000013" title=" " alt="" coords="335,398,317,427,288,451,285,446,312,423,330,395"/>
+<area shape="poly" id="edge21_Node000013_Node000013" title=" " alt="" coords="407,358,417,367,408,376,391,379,390,374,406,371,411,367,404,362"/>
+<area shape="poly" id="edge23_Node000013_Node000014" title=" " alt="" coords="371,301,351,353,346,351,366,299"/>
+<area shape="rect" id="Node000015" href="$unionmodule__value__t.html" title=" " alt="" coords="319,102,438,132"/>
+<area shape="poly" id="edge24_Node000014_Node000015" title=" " alt="" coords="381,147,381,255,376,255,376,147"/>
+</map>

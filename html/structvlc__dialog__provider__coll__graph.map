@@ -1,0 +1,23 @@
+<map id="vlc_dialog_provider" name="vlc_dialog_provider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,218,238,247"/>
+<area shape="rect" id="Node000002" href="$structvlc__array__t.html" title=" " alt="" coords="5,112,92,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,154,72,174,87,192,105,205,125,215,122,219,102,209,83,196,68,177,57,157"/>
+<area shape="rect" id="Node000003" href="$structvlc__dialog__cbs.html" title="Dialog callbacks to be implemented." alt="" coords="115,112,222,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,157,171,217,166,217,166,157"/>
+<area shape="rect" id="Node000004" href="$structextension__dialog__t.html" title="Dialog descriptor for extensions." alt="" coords="272,112,407,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="291,150,239,177,185,220,181,215,236,172,288,145"/>
+<area shape="rect" id="Node000008" href="$structextension__widget__t.html" title="Widget descriptor for extensions." alt="" coords="358,218,499,247"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="335,156,336,175,342,192,354,205,370,215,367,219,351,209,338,195,331,176,330,157"/>
+<area shape="rect" id="Node000005" href="$structvlc__object__t.html" title="The main vlc_object_t structure." alt="" coords="693,5,785,35"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="678,39,420,105,388,113,387,108,418,99,677,34"/>
+<area shape="rect" id="Node000006" href="$structvlc__common__members.html" title="Common structure members." alt="" coords="711,112,874,141"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="759,47,766,58,789,110,785,112,761,60,755,50"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="757,103,739,79,733,57,734,36,739,36,739,56,744,77,761,100"/>
+<area shape="rect" id="Node000007" href="$structlibvlc__int__t.html" title=" " alt="" coords="750,218,835,247"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="775,155,767,174,768,193,781,216,777,218,763,194,762,173,770,153"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="790,202,790,142,795,142,795,202"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="415,205,397,176,360,144,363,140,401,173,419,202"/>
+<area shape="rect" id="Node000009" href="$structextension__widget__t_1_1extension__widget__value__t.html" title=" " alt="" coords="431,102,618,151"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="500,165,473,196,448,219,444,215,469,192,496,161"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="635,117,645,126,637,135,619,139,618,134,634,130,640,126,632,121"/>
+</map>
